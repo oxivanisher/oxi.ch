@@ -1,0 +1,1 @@
+Somit sind Schatten bei leicht transparenten Farben mit wenig Aufwand realisierbar.

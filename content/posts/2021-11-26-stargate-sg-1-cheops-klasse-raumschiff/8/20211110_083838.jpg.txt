@@ -1,0 +1,1 @@
+Ein weiteres 3D-Druck-Objekt für die Rückbeleuchtung des Logos. Erneut wurde das Alu-Klebeband als Reflektor verwendet. Zusätzlich hilft es die Wärme des LED zu verteilen.

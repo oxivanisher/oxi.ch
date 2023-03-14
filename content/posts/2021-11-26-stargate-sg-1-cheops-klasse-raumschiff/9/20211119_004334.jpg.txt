@@ -1,0 +1,1 @@
+Anbringen der JST-Stecker damit die LED einfach verkabelt werden können.

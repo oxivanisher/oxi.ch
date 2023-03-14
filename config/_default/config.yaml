@@ -1,0 +1,56 @@
+---
+
+baseURL: https://oxi.ch/
+title: oxi.ch
+theme:
+  - puppet
+
+themesDir: "themes"
+copyright: "oXiVanisher"
+paginat: 3
+languageCode: "en"
+defaultContentLanguage: "en"
+
+timeout: 1800s
+
+hasCJKLanguage: true
+enableInLineShortcodes: true
+enableEmoji: true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors:
+  - error-remote-getjson
+disqusShortname: ""
+googleAnalytics: UA-55583657-1
+
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
+
+# prevent build failures when using Hugo's template _internal/opengraph.html
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  highlight:
+    noClasses: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    lineNumbersInTabl: false
+    style: "dracula"
+
+  goldmark:
+    renderer:
+      unsafe: true
+
+## old design stuff
+# timeZone: Europe/Zurich
+# languageCode: en-us
+# defaultContentLanguage: de
+# permalinks:
+#   posts: /:year/:month/:day/:title/

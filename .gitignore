@@ -1,0 +1,10 @@
+# wordpress import temporary stuff
+wp-export/
+static/imported
+static/imported.rar
+# hugo server ignores
+public/
+.hugo_build.lock
+main.scss*
+tagcolor-template*
+resources/

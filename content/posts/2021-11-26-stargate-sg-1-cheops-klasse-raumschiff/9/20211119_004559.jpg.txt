@@ -1,0 +1,1 @@
+Erster Test mit der Schaltung via ESP8266. Somit lässt sich die Pyramide in meine Heimautomatisierung integrieren und leuchtet nur wenn dies gewünscht ist.
