@@ -1,0 +1,1 @@
+Darum wird ein Relais verwendet um die 3 V zu schalten.

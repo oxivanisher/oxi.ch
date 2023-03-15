@@ -1,0 +1,86 @@
+{{/* a LOT of code is copied from
+https://github.com/mfg92/hugo-shortcode-gallery/blob/master/layouts/shortcodes/gallery.html */}}
+{{ $currentPage := . }}
+{{ $thumbnailResizeOptions := .Get "thumbnailResizeOptions" | default (.Site.Params.galleryThumbnailResizeOptions |
+default "300x150 q85 Lanczos") }}
+{{ $imageResizeOptions := .Get "imageResizeOptions" | default .Site.Params.galleryImageResizeOptions }}
+{{ $sortOrder := .Get "sortOrder" | default (.Site.Params.gallerySortOrder | default "asc") }}
+{{ $IGName := (printf "image-gallery-%v-%v" .Page.File.UniqueID .Ordinal)}}
+
+<script>
+  window.addEventListener('load', function () {
+    baguetteBox.run('.{{ $IGName }}');
+  });
+</script>
+
+{{ $images := (.Page.Resources.Match (path.Join (.Get "gallery_dir") "*")) }}
+<div class="{{ $IGName }} image-gallery">
+  {{ range $original := sort $images "Name" $sortOrder}}
+  {{ if eq $original.ResourceType "image" }}
+
+  {{/* Get metadata from sidecar file, if present. Else an empty dictionary is used. */}}
+  {{ $metaFileName := print $original.Name ".meta"}}
+  {{ $metadata := $currentPage.Page.Resources.GetMatch ($metaFileName) }}
+  {{ if $metadata }}
+  {{ $metadata = $metadata.Content }}
+  {{ $metadata = $metadata | unmarshal }}
+  {{ else }}
+  {{ $metadata = dict }}
+  {{ end }}
+
+  {{/* If the image has exif informations, those are merged together with the metadata from the file */}}
+  {{ if in "jpg jpeg tiff" $original.MediaType.SubType }}
+  {{ with $original.Exif }}
+  {{ $metadata = merge .Tags $metadata }}
+  {{ end }}
+  {{ end }}
+
+  {{/* Compute rotation to correct orientation of thumbnail (and downscaled gallery images) in case the exif contains a
+  value for orientation. See issue #22. */}}
+  {{ $rotation := "" }}
+  {{ with $metadata.Orientation }}
+  {{/* Exif orientation is explained here: https://www.impulseadventure.com/photo/exif-orientation.html */}}
+  {{/* Example images can be found here: https://github.com/recurser/exif-orientation-examples*/}}
+  {{/* We can fix orientation 3, 6 and 8 by rotating. */}}
+  {{/* To fix orientation 2, 4, 5, 6 we would need to flip the image, sadly hugo can not do that. */}}
+  {{/* So we can only fix them a "bit" by rotating them but they will be mirrored. */}}
+  {{/* An orientation of 2 means that the image only needs to be flipped so we do nothing in that case. */}}
+  {{/* An orientation of 1 means that the image has the correct rotation and is not mirrored. */}}
+  {{ if or (eq . 8) (eq . 7) }}
+  {{ $rotation = " r90" }}
+  {{ else if or (eq . 3) (eq . 4) }}
+  {{ $rotation = " r180" }}
+  {{ else if or (eq . 6) (eq . 5) }}
+  {{ $rotation = " r270" }}
+  {{ end }}
+  {{ end }}
+
+  {{/* Create thumbnail, rotate it if needed */}}
+  {{ $thumbnail := ($original.Fit (printf "%s %s" $thumbnailResizeOptions $rotation)) }}
+
+  {{ $full := "" }}
+  {{ if $imageResizeOptions }}
+  {{/* Downscale gallery image, rotate it if needed */}}
+  {{ $full = ($original.Fit (printf "%s %s" $imageResizeOptions $rotation)) }}
+  {{ else }}
+  {{ $full = $original }}
+  {{ end }}
+
+  {{ $commentFileName := print $original.Name ".txt"}}
+  {{ $comment := $currentPage.Page.Resources.GetMatch ($commentFileName) }}
+  {{ $imagetitle := path.Base .Name }}
+  {{ if $comment }}
+  {{ $imagetitle = htmlEscape $comment.Content }}
+  {{ end }}
+
+  {{ if $original.Params.caption }}
+  {{ $imagetitle = htmlEscape $original.Params.caption }}
+  {{ end }}
+
+  <a href="{{ $full.RelPermalink }}" data-caption="{{ $imagetitle }}">
+    <img src="{{ $thumbnail.RelPermalink }}" title="{{ $imagetitle }}" alt="{{ $imagetitle }}"
+      width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}">
+  </a>
+  {{- end -}}
+  {{- end -}}
+</div>

@@ -1,0 +1,84 @@
+---
+
+author: "oxi"
+description: "IT-Freak, Gamer, Bastler, Multicopter-Fan, 3D-Printing-Enthusiast & Weltverbesserer"
+keywords: "blog,3dprinting,personal,diy,maker"
+img_home: "img/workbench-header.jpg"
+img_404: "img/404-bg.jpg"
+
+useFaviconGenerator: false
+
+# loading baguettejs
+custom_js:
+  - "js/baguetteBox.min.js"
+custom_css:
+  - "css/baguetteBox.min.css"
+  - "css/image-gallery.css"
+  - "css/oxi.css"
+
+galleryThumbnailResizeOptions: "200x200 q85"
+galleryImageResizeOptions: "1600x1600 q85"
+
+sidebar:
+  enable: true
+  gravatarEmail: "aegnor@mittelerde.ch"
+  # Overwritten by your gravatar image if `gravatarEmail` is filled
+  # avatar = "img/home-bg.jpg"
+  bio: "IT-Freak, Gamer, Bastler, Multicopter-Fan, 3D-Printing-Enthusiast & Weltverbesserer"
+
+social:
+  twitter: "oxivanisher"
+  facebook: "oxivanisher"
+  # zhihu = "johndoe"
+  # weibo = "johndoe"
+  github: "oxivanisher"
+  # gitlab = "johndoe"
+  # linkedin = "johndoe"
+  rss: true
+
+# [[params.friends]]
+# name = "John Doe"
+# url = "https://gohugo.io"
+
+# [[params.friends]]
+# name = "John Doe"
+# url = "https://gohugo.io"
+
+# # See https://giscus.app/
+# [params.giscus]
+# enable = true
+# repo = "roninro/hugo-theme-puppet"
+# repo_id = "R_kgDOHuvyhw"
+# category = "General"
+# category_id = "DIC_kwDOHuvyh84CQjDo"
+# input_position = "top"
+# theme = "light_tritanopia"
+# lang = "en"
+
+
+## old design stuff
+
+#AuthorName: Marc Urben
+#GitHubUser: oxivanisher
+#date_format: '2006-01-02'
+
+
+# hugo-universal-theme params
+# disabled_logo: false
+# logo_text: "oXiVanisher"
+# logo: "img/logo_oxivanisher_quad_t_icon.png"
+# logo_small: "img/logo_oxivanisher_quad_t_icon.png"
+
+# recent_posts:
+#   enable: true
+#   title: Neueste Beiträge
+#   subtitle: Pellen
+#   hide_summary: false
+
+# widgets:
+#   search: true
+#   categories: true
+#   tags: true
+
+# hugo-theme-walden
+#headlineimage: img/20210627_200134_optimized.jpg

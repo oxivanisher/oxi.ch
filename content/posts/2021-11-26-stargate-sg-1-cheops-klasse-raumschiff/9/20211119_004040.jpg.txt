@@ -1,0 +1,1 @@
+Der Step-Down Schaltregler reduziert die 5V des USB-Anschlusses auf die benötigten 3V.

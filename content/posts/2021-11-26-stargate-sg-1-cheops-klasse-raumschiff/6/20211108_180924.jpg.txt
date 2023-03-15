@@ -1,0 +1,1 @@
+Das Diorama wird mit 5V über einen USB-C Stecker versorgt.
