@@ -22,3 +22,4 @@ As a daily user of Linux and as a Linux System Engineer at <a href="https://www.
 ### Opensource
 
 OSS is a major part of my live and if ever possible I try to use open software. Also I strongly believe, that open source is a great way to push forward invention. Most of my own development is also OSS and is available on my <a href="https://github.com/oxivanisher/" target="_blank" rel="noopener noreferrer">GitHub profile</a>.
+![My github stats](https://github-readme-stats.vercel.app/api?username=oxivanisher&show_icons=true)
