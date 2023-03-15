@@ -11,14 +11,14 @@ type: post
 date: "2016-02-08"
 categories:
   - 3D Printing
-  - Tip
 tags:
+  - Deutsch
   - 3D Printing
+  - Tips
 series: []
 ---
 ![Lara Croft](img/P1020123.jpg)
 Sekundenkleber funktioniert super. Aktivator sollte man hingegen NICHT verwenden. Deswegen sind die Beine von Lara Croft so komisch grau geworden&#8230;
-
 
 ![Stecker crimpen](img/P1020108.jpg)
 Stecker crimpen ist eine mühselige Arbeit. Wenn sie jedoch richtig gemacht wird, hält das Resultat dafür umso länger. Hier ein Beispiel eines schon ca. dreimal schlecht gecrimpten Steckers.

@@ -11,15 +11,15 @@ type: post
 date: "2018-05-11"
 categories:
   - RC
-  - Uncategorized
-  - Wing
 tags:
+  - Deutsch
+  - Freestyle
   - FPV
-  - FrSky
-  - RC
-  - Taranis
-  - TBS
-  - Wing
+  - SkyShadow S800
+  - TBS Caipirinha II
+  - Tips
+  - Wings
+  - Youtube
 series: []
 ---
 Endlich konnte ich die Maiden-Flüge der beiden Wings durchführen. 🙂

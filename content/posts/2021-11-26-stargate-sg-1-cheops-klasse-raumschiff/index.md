@@ -1,7 +1,7 @@
 ---
-title: Stargate SG-1 Cheops-Klasse Raumschiff
+title: Stargate SG-1 Cheops-Klasse Raumschiff - Diorama
 author: oxi
-subtitle: "Diorama"
+subtitle: "Indeed."
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: true
@@ -10,16 +10,14 @@ lang: de
 type: post
 date: "2021-11-26"
 categories:
-  - 3D Printing
-  - Diorama
-  - Elegoo Mars Pro SLA
   - Miniatures
-  - Prusa
-  - Tinkering
 tags:
-  - 3D Printing
   - Deutsch
+  - 3D Printing
+  - Elegoo Mars Pro SLA
+  - Prusa
   - Diorama
+  - Youtube
   - Tinkering
 series: []
 ---

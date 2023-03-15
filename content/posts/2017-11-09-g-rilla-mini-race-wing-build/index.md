@@ -10,14 +10,15 @@ lang: de
 type: post
 date: "2017-11-09"
 categories:
-  - 3D Printing
-  - FPV Racing
   - RC
 tags:
+  - Deutsch$
   - 3D Printing
-  - 3d_design
+  - 3D Design
   - FPV
   - Racing
+  - Wing
+  - Youtube
 series: []
 ---
 Ich konnte erneut ein spannendes Video zusammen mit <a href="http://www.dronefactory.ch/" target="_blank" rel="noopener">Dronefactory</a> erstellen. Dieses mal konnte ich einen Mini-Race-Wing von <a href="https://www.g-rilla.com/" target="_blank" rel="noopener">G-Rilla</a> mit dem neuen <a href="http://TBS PowerCube Racewing - DroneFactory.ch" target="_blank" rel="noopener">TBS PowerCube Racewing</a>, <a href="http://www.dronefactory.ch/produkt/team-blacksheep-core-pnp-pro-gpskompass-modul/" target="_blank" rel="noopener">TBS GPS</a> und <a href="http://www.dronefactory.ch/produkt/tbs-crossfire-micro-rx/" target="_blank" rel="noopener">TBS Crossfire</a> bauen:

@@ -10,17 +10,14 @@ lang: de
 type: post
 date: "2017-01-13"
 categories:
-  - 3D Printing
-  - Blog
-  - RC
-  - Tinker
+  - IT
 tags:
   - 3D Printing
-  - Knowledge
   - RC
   - Tinkering
+  - FPV
+  - Tips
 series: []
-
 ---
 Aus meiner Sicht fehlte eine Wissensdatenbank ähnlich wie <a href="http://stackoverflow.com/" target="_blank">StackOverflow</a> für die Themengebiete dieser Website. Das <a href="https://rc.oxi.ch" target="_blank">Wiki</a> ist zwar ausgezeichnet als Dokumentations-Plattform, für das konkrete Beantworten von Fragen ist es jedoch weniger geeignet.
 

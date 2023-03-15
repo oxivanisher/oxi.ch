@@ -11,15 +11,14 @@ type: post
 date: "2018-01-18"
 categories:
   - 3D Printing
-  - Prusa
-  - Tip
 tags:
+  - Deutsch
   - 3D Printing
-  - 3d_design
-  - tips
-  - tricks
+  - 3D Design
+  - Prusa
+  - Tips
+  - Youtube
 series: []
-
 ---
 Im meinem neuesten Video behandle ich häufig gestellte Fragen (FAQ) zu Schichthöhen und Infill.
 

@@ -11,12 +11,13 @@ type: post
 date: "2018-10-27"
 categories:
   - RC
-  - FPV
-  - Tinywhoop
 tags:
-  - RC
+  - Deutsch
   - FPV
   - Tinywhoop
+  - Quadcopter
+  - Youtube
+  - Tips
 series: []
 ---
 Im neuesten Video zeige ich diverse Mods für den BetaFPV 75X.

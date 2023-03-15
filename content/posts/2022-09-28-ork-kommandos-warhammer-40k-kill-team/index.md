@@ -11,16 +11,14 @@ date: "2022-09-28"
 lang: de
 categories:
   - Miniatures
-  - Painting
-  - WH40K
 tags:
-  - kill team
-  - wh40k
+  - Deutsch
+  - 3D Printing
+  - Kill Team
+  - WH40K
+  - Diorama
+  - Tinkering
 series: []
-resources:
-  - src: '2/20220717_174454.jpg'
-    params:
-      caption: 'Den Feuer-Effekt muss ich noch üben. 😊'
 ---
 Aus der Kill Team Box Octarius von Games Workshop stammen die Ork Kommandos. Die reinen Mal-Arbeiten dauerten ca. 20 Stunden. Am Anfang ging es dank den Speed-Paints relativ schnell, aber all die Details der 12 Modelle dann hervor zu heben dauerte schlussendlich viel länger als erwartet.
 

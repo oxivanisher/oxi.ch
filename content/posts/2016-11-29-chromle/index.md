@@ -11,7 +11,6 @@ type: post
 date: "2016-11-29"
 categories:
   - 3D Printing
-  - 3D Design
 tags:
   - 3D Printing
   - 3D Design

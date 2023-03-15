@@ -11,12 +11,12 @@ type: post
 date: "2018-10-19"
 categories:
   - RC
-  - FPV
-  - Tinywhoop
 tags:
-  - RC
+  - Deutsch
   - FPV
   - Tinywhoop
+  - Quadcopter
+  - Youtube
 series: []
 ---
 Mit den fallenden Temperaturen und immer weniger Tageslicht, werden die ganz kleinen Quads, Tiny Whoops, wieder interessant. Um bei dieser Saison schon von Anfang an dabei zu sein, habe ich mich bereits jetzt damit auseinandergesetzt welche guten Micro-Quads zur Zeit auf dem Markt sind. Das wichtigste vorneweg: Tiny Whoops sind jetzt auch Brushless! 😀

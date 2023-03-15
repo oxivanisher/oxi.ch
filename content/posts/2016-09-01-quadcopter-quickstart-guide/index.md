@@ -10,17 +10,8 @@ lang: de
 type: post
 date: "2016-09-01"
 categories:
-  - FPV Racing
-  - Quadcopter
   - RC
-tags:
-  - FPV
-  - Guide
-  - Quadcopter
-  - Racing
-  - RC
-  - Taranis
+tags: []
 series: []
-
 ---
-Ich habe für einen Kollegen einen <a href="https://rc.oxi.ch/index.php/Quadcopter_Konfiguration_Quickstart" target="_blank">Quickstart Guide</a> geschrieben zum Einstieg in das FPV Racing Hobby. Der Guide bezieht sich nicht auf den Physikalischen Bau des Copters, sondern auf das Verbinden und initiale konfigurieren von Cleanflight und einer FrSky Taranis.
+Ich habe für einen Kollegen einen Quickstart Guide geschrieben zum Einstieg in das FPV Racing Hobby. Der Guide bezieht sich nicht auf den Physikalischen Bau des Copters, sondern auf das Verbinden und initiale konfigurieren von Cleanflight und einer FrSky Taranis.

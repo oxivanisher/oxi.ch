@@ -9,7 +9,6 @@ type: post
 date: "2016-02-01"
 categories:
   - Blog
-  - Updates
 tags:
   - Deutsch
   - English

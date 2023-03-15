@@ -10,18 +10,14 @@ lang: de
 type: post
 date: "2021-03-17"
 categories:
-  - Blog
   - IT
-  - Löten
-  - Tinker
-  - Uncategorized
-  - Updates
-  - WH40K
 tags:
-  - pc
-  - styling
+  - Deutsch
+  - Blog
+  - Löten
   - Tinkering
-  - tune
+  - WH40K
+  - Youtube
 series: []
 ---
 Lange ist es her, seit ich hier den letzten Post gemacht habe. Ich bin mir auch nicht sicher ob heute noch jemand Homepages anschaut und liest. Aber damit nicht eine weitere Homepage komplett veraltet, schreibe ich hier auch mal wieder etwas hin.

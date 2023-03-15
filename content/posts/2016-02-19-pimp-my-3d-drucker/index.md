@@ -11,22 +11,23 @@ type: post
 date: "2016-02-19"
 categories:
   - 3D Printing
+tags:
+  - Deutsch
+  - 3D Printing
   - Kossel
   - Octoprint
   - RepRap
-tags:
-  - 3D Printing
 series: []
 ---
 ![P1020104](img/P1020104.jpg)
 
 Vorletztes Weekend habe ich nebst Rise of the Tomb Raider doch noch Zeit gefunden, um die upgrades am Kossel XL auf einen guten Stand zu bringen. Diese umfassen:
 
-  * Neue Arduino Halterung
-  * Neues Heated-Bed
-  * Kamera Halterung
-  * LED Band Halterungen
-  * Smart LCD Controller Case
+* Neue Arduino Halterung
+* Neues Heated-Bed
+* Kamera Halterung
+* LED Band Halterungen
+* Smart LCD Controller Case
 
 ### Heated-Bed
 
@@ -67,7 +68,7 @@ Da das mitgelieferte LCD Befestigungssystem ziemlich rudimentär und auch nicht 
 
 Als nächstes erwarte ich das <a href="http://de.aliexpress.com/item/C18-Newest-2014-Level-Triger-Optocoupler-Relay-1-Channel-H-LModule-for-Arduino-5V-Free-Shipping/32224788335.html" target="_blank">C18 Relais</a> damit ich die 12V Versorgung fernsteuern kann. Weitere geplante Projekte sind:
 
-  * Heizkammer (damit die Wärme besser gehalten wird)
-  * Vibrationsarme Lüftermontage
-  * ABS Druck ?
-  * Project Wordclock
+* Heizkammer (damit die Wärme besser gehalten wird)
+* Vibrationsarme Lüftermontage
+* ABS Druck ?
+* Project Wordclock

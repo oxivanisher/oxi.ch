@@ -10,17 +10,13 @@ lang: de
 type: post
 date: "2017-03-05"
 categories:
-  - FPV
-  - Racing
-  - Freestyle
-  - Quadcopter
   - RC
 tags:
+  - Deutsch
   - FPV
-  - Racing
-  - Freestyle
   - Quadcopter
-  - RC
+  - Tips
+  - Youtube
 series: []
 ---
 Bei 2.4 GHz Antennen kann, mit der richtigen Länge des sendenden Teiles der Antenne, eine merklich grössere Reichweite erreicht werden. Im folgenden Video erkläre ich, wie man die FrSky XSR korrekt präpariert.

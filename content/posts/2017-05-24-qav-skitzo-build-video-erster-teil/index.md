@@ -10,18 +10,18 @@ lang: de
 type: post
 date: "2017-05-24"
 categories:
-  - Designed
-  - Löten
-  - QAV-Skitzo
-  - Quadcopter
   - RC
 tags:
-  - 3d_design
+  - Deutsch
+  - 3D Design
+  - 3D Printing
+  - Deutsch
   - FPV
-  - FrSky
-  - Löten
+  - QAV-Skitzo
   - Quadcopter
-  - Taranis
+  - Tips
+  - Löten
+  - Youtube
 series: []
 ---
 Der erste Teil des Lumenier QAV-Skitzo Builds ist nach längerer Zeit endlich online. Die letzten Flug-Videos wurden alle mit diesem Quad gemacht. Es folgen noch zwei weitere Videos in dieser Reihe. Zum einen die BetaFlight Konfiguration und ein Video zu Anpassungen und Änderungen welche ich in der Zwischenzeit am Build vorgenommen habe.

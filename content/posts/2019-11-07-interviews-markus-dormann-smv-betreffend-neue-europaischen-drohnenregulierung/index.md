@@ -10,11 +10,12 @@ draft: false
 type: post
 date: "2019-11-07"
 categories:
-  - BAZL
-  - SMV
+  - RC
 tags:
+  - Deutsch
   - BAZL
   - SMV
+  - Youtube
 series: []
 ---
 Da sich die Gesetzeslage im Bezug auf mein FPV-Hobby im Juni 2020 massiv verändern wird und die Information des BAZL ungenügend ist, habe ich ein stündiges Interview mit dem &#8220;Leiter Arbeitsgruppe Drohnen&#8221; des Schweizerischen Modellflugverbandes durchgeführt.

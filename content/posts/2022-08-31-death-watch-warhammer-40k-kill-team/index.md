@@ -10,18 +10,14 @@ lang: de
 type: post
 date: "2022-08-31"
 categories:
-  - 3D Printing
-  - Diorama
-  - Elegoo Mars Pro SLA
   - Miniatures
-  - Tinker
-  - WH40K
 tags:
-  - 3D Printing
   - Deutsch
+  - 3D Printing
+  - Kill Team
+  - WH40K
   - Diorama
   - Tinkering
-  - WH40K
 series: []
 ---
 ![Deatch Watch](img/DSC01147.jpg)

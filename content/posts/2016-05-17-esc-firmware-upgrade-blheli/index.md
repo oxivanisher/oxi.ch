@@ -10,16 +10,13 @@ lang: de
 type: post
 date: "2016-05-17"
 categories:
+  - RC
+tags:
+  - Deutsch
   - Arduino
-  - FPV Racing
   - Nighthawk
   - Quadcopter
-  - RC
-  - Tinker
-  - Uncategorized
-tags:
-  - Arduino
-  - Quadcopter
+  - Tinkering
 series: []
 ---
 Als ich <a href="http://cleanflight.com/" target="_blank">Cleanflight</a> für meine Nighthawk auf die neuste Version aktualisiert hatte, stellte ich fest, dass die Motoren nicht mehr starteten. Nach einer Analyse hatte ich herausgefunden, dass die vorinstallierte Firmware bei den ESC&#8217;s nicht mehr kompatibel ist mit der aktuellen <a href="http://blog.oscarliang.net/oneshot125-esc-quadcopter-fpv/" target="_blank">OneShot</a> Implementation in <a href="http://cleanflight.com/" target="_blank">Cleanflight</a>.

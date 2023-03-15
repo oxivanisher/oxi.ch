@@ -10,15 +10,13 @@ lang: de
 type: post
 date: "2018-01-25"
 categories:
-  - 3D Printing
-  - Kossel
-  - Löten
   - RC
 tags:
+  - Deutsch
   - 3D Printing
-  - charger
-  - lipo
-  - RC
+  - 3D Design
+  - Löten
+  - Youtube
 series: []
 ---
 Im aktuellsten Video zeige ich Dir wie du für wenig Geld Temperatur-Sensoren für dein LiPo Ladegerät bauen kannst. Damit bricht das Ladegerät ab wenn der Akku beim Laden (oder auch Entladen) zu warm wird. Somit wird die Gefahr eines LiPo Feuers minimiert.

@@ -9,11 +9,9 @@ author: oxi
 type: page
 date: "2017-01-08"
 categories:
-  - PC
-  - Tinkering
+  - IT
 tags:
-  - PC
-  - Tinkering
+  - Deutsch
 ---
 ## Meine PC-Interessen sind breit gefächert. Sie beinhalten&nbsp;unter anderen:
 
@@ -40,4 +38,4 @@ Diese Website sowie diverse weitere Dienste [und Domains](./hosting/ werden von 
 * <a href="https://cloud.oxi.ch" target="_blank" rel="noopener">Nextcloud</a>
 * <a href="https://ask.oxi.ch" target="_blank" rel="noopener">Discourse Wissensdatenbank</a>
 * Internes WikiJS
-* uvm
+* uvm.

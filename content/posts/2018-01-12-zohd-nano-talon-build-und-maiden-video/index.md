@@ -10,13 +10,15 @@ lang: de
 type: post
 date: "2018-01-12"
 categories:
-  - 3D Printing
-  - Nano Talon
   - RC
 tags:
+  - Deutsch
+  - 3D Printing
+  - Nano Talon
   - FPV
-  - plane
-  - RC
+  - Wing
+  - Freestyle
+  - Youtube
 series: []
 ---
 In meinem neuesten Video zeige ich euch den Bau und GPS-Maiden Flug des ZOHD Nano Talon Fliegers. Er hat dank iNav interessante Features wie z.B. Return To Home.

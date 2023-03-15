@@ -9,11 +9,10 @@ author: oxi
 type: page
 date: "2019-09-07"
 categories:
-  - PC
-  - Gaming
+  - IT
 tags:
-  - PC
   - Gaming
+  - Deutsch
 ---
 Auch Gaming gehört zu meinen Hobbies und das schon seit über 30 Jahren. Angefangen hat dies bei sehr simplen Spielen auf dem Sinclair ZX81 und dem 386er meiner Eltern. Von NES und Gameboy bis zur PS 5 und Xbox One X sind fast alle Konsolen von mir bespielt worden.
 

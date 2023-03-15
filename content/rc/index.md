@@ -9,11 +9,11 @@ author: oxi
 type: page
 date: "2017-01-11"
 categories:
-  - FPV
   - RC
 tags:
+  - Deutsch
   - FPV
-  - RC
+series: []
 ---
 Eine Passion von mir ist der Modellbau und besonders das Hobby der ferngesteuerten Flugzeuge und FPV-Drohnen. Ich habe mit Kollegen den Verein <a href="http://fpv-enthusiasts.ch/" target="_blank" rel="noopener noreferrer">FPV Enthusiasts</a> gegründet. Um das FPV-Hobby in der Schweiz besser zu fördern, haben wir mit unserem Verein die Plattform <a href="http://fpvhub.ch/" target="_blank" rel="noopener noreferrer">FPV Hub</a> initialisiert.
 Alle Informationen rund um das Hobby wurden in <a href="https://fpvhub.ch/infos" target="_blank" rel="noopener">diese Seite auf dem FPV Hub</a> migriert. Als guter Einstieg eignet sich z.B. <a href="https://fpvhub.ch/infos/geschichte" target="_blank" rel="noopener noreferrer">meine FPV-Geschichte</a>.

@@ -10,17 +10,14 @@ lang: de
 type: post
 date: "2017-01-12"
 categories:
-  - Quadcopter
   - RC
-  - FPV
-  - Racing
-  - GEP130X
 tags:
-  - Quadcopter
-  - RC
+  - Deutsch
   - FPV
-  - Racing
   - GEP130X
+  - Quadcopter
+  - Racing
+  - Youtube
 series: []
 ---
 Letztes Weekend waren wir in Wynigen in der Turnhalle zum ersten mal mit unseren Mini und Micro Quads unterwegs. Es hat Riesen Spass gemacht!

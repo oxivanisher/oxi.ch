@@ -10,16 +10,15 @@ lang: de
 type: post
 date: "2018-01-07"
 categories:
-  - FPV Racing
   - RC
 tags:
+  - Deutsch
   - FPV
+  - GEPRC Sparrow
   - Quadcopter
   - Racing
-  - Videos
-  - YouTube
+  - Youtube
 series: []
 ---
-
 Ich habe ein Video vom <a href="https://www.youtube.com/watch?v=DrNp3vxnrBo" target="_blank" rel="noopener">FPV Fun Race training in Wynigen mit FPVBern</a> hochgeladen:
 {{< youtube DrNp3vxnrBo >}}

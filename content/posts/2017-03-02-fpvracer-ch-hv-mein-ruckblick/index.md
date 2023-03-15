@@ -10,15 +10,13 @@ lang: de
 type: post
 date: "2017-03-02"
 categories:
-  - FPV
-  - Racing
-  - Quadcopter
   - RC
 tags:
+  - Deutsch
   - FPV
-  - Racing
   - Quadcopter
-  - RC
+  - Racing
+  - Youtube
 series: []
 ---
 Am Weekend vom 25. Februar 2017 war im <a href="http://www.tennisstueble.de/" target="_blank">Tennisstüble in Bad Säckingen</a> trafen sich fast alle der knapp 20 Mitglieder des fpvracer.ch Vereines zur ersten Hauptversammlung.

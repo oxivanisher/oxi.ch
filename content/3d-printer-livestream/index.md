@@ -12,7 +12,8 @@ categories:
   - 3D Printing
 tags:
   - 3D Printing
-
+  - Deutsch
+  - English
 ---
 ### <a href="https://www.prusa3d.com/original-prusa-i3-mk3/" target="_blank" rel="noopener noreferrer">Prusa i3 MK3S+</a>
 

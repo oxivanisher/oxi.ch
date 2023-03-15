@@ -9,11 +9,10 @@ author: oxi
 type: page
 date: "2017-10-23"
 categories:
-  - FPV
   - RC
 tags:
   - FPV
-  - RC
+  - Deutsch
 ---
 Um die Community der FPV Piloten in der Schweiz näher zusammen zu bringen, habe ich einen Discord Server names &#8220;FPV Hub&#8221; mit diesem Ziel eingerichtet. Die Idee dahinter ist es, den sehr verstreuten WhatsApp Gruppen etwas entgegen zu wirken und somit auch neuen Piloten den Zugang zur Community in der Nähe zu ermöglichen.
 

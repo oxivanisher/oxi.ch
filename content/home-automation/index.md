@@ -9,12 +9,12 @@ author: oxi
 type: page
 date: "2016-01-25"
 categories:
-  - Tinkering
+  - IT
 tags:
   - Tinkering
+  - IoT
+  - English
 ---
-Englisch? Ja, da die IT-Themen mehr für ein Internationales Publikum interessant sind, sind diese teilweise in Englisch.
-
 The Idea behind JamesII Butler is to implement smarthome features in combination with multimedia, networking and interactive applications to your existing infrastructure. It consists of distributed python nodes which connect via a RabbitMQ server to talk to each other. There is one core node which hosts the configuration and some basic features. The system is also very handy in combination with RaspberryPi&#8217;s (<http://www.raspberrypi.org/>).
 
 To find out more, go to&nbsp;<a href="https://github.com/oxivanisher/JamesII" target="_blank" rel="noopener">github.com/oxivanisher/JamesII</a>

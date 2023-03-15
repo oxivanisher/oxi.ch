@@ -10,13 +10,15 @@ lang: de
 type: post
 date: "2017-02-06"
 categories:
-  - FPV Racing
-  - Quadcopter
   - RC
 tags:
-  - FPV Racing
+  - Deutsch
+  - Freestyle
+  - FPV
+  - China Quad
   - Quadcopter
-  - RC
+  - Tips
+  - Youtube
 series: []
 ---
 Über die letzten Wochen habe ich einen Quadcopter mit möglichst günstigen Teilen aus China gebaut. Den Vorgang und meine Gedanken dazu, könnt ihr im folgenden Video anschauen (Schweizerdeutsch!).

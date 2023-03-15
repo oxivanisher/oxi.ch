@@ -10,16 +10,16 @@ lang: de
 type: post
 date: "2016-03-21"
 categories:
-  - Designed
-  - FPV Racing
-  - Nighthawk
-  - Quadcopter
   - RC
 tags:
+  - Deutsch
   - 3D Printing
   - FPV
+  - Freestyle
+  - 3D Design
+  - Nighthawk
   - Quadcopter
-  - Racing
+  - Youtube
 series: []
 ---
 ![DSC05578](img/DSC05578.jpg)
@@ -38,6 +38,6 @@ Ich habe im verlaufe des Tages auch diverse Änderungen an den PID Werten getest
 
 Hilfreiche Links:
 
-  * <a href="https://github.com/cleanflight/cleanflight/blob/master/docs/PID%20tuning.md" target="_blank">Cleanflight &#8211; PID tuning</a>
-  * <a href="http://open-txu.org/home/special-interests/multirotor/cleanflight-pid-tuning/" target="_blank">OpenTX University &#8211; CleanFlight PID Tuning</a>
-  * Meine 3D Objekte sind wie immer zu finden unter: <a href="https://oxi.ch/3dobjects" target="_blank">oxi.ch/3dobjects</a>
+* <a href="https://github.com/cleanflight/cleanflight/blob/master/docs/PID%20tuning.md" target="_blank">Cleanflight &#8211; PID tuning</a>
+* <a href="http://open-txu.org/home/special-interests/multirotor/cleanflight-pid-tuning/" target="_blank">OpenTX University &#8211; CleanFlight PID Tuning</a>
+* Meine 3D Objekte sind wie immer zu finden unter: <a href="https://oxi.ch/3dobjects" target="_blank">oxi.ch/3dobjects</a>

@@ -10,20 +10,14 @@ lang: de
 type: post
 date: "2016-06-17"
 categories:
-  - 3D Printing
-  - Bash
-  - Designed
-  - Development
-  - FPV Racing
-  - IT
-  - Linux
-  - Quadcopter
   - RC
+  - 3D Printing
 tags:
   - Deutsch
+  - 3D Printing
+  - 3D Design
   - FPV
   - Quadcopter
-  - Racing
 series: []
 ---
 ![DSC_0277](img/DSC_0277.jpg)

@@ -11,12 +11,12 @@ type: post
 date: "2016-04-17"
 categories:
   - 3D Printing
+tags:
+  - English
+  - 3D Printing
   - Kossel
   - RepRap
-tags:
-  - 3D Printing
 series: []
-
 ---
 On April 1st, the <a href="http://reprap.org/wiki/Marlin" target="_blank">Marlin Team</a> released a new RC for the next big release of the Marlin firmware version 1.1. After updating the configuration files (due to some changes in variable names and such things) to the current version, the flashing of the firmware was as always no problem. The fixes are listed on <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">GitHub</a>.
 

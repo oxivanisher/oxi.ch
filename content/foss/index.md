@@ -9,12 +9,12 @@ author: oxi
 type: page
 date: "2017-01-11"
 categories:
-  - Computer
+  - IT
 tags:
-  - Computer
+  - Linux
+  - Opensource
+  - English
 ---
-Englisch? Ja, da die IT-Themen mehr für ein Internationales Publikum interessant sind, sind diese teilweise in Englisch.
-
 ### Linux
 
 As a daily user of Linux and as a Linux System Engineer at <a href="https://www.t-systems.com/" target="_blank" rel="noopener">T-Systems Alpine</a>, Linux is a essential part of my geek and work life. The only reason I still have a Windows Box, is for Gaming.

@@ -10,11 +10,10 @@ lang: de
 type: post
 date: "2018-02-12"
 categories:
-  - Mavic Air
   - RC
 tags:
-  - Dji
-  - Mavic Air
+  - Deutsch
+  - Youtube
 series: []
 ---
 {{< youtube ZjQ8Zlskbvs >}}

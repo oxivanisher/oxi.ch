@@ -10,16 +10,14 @@ lang: de
 type: post
 date: "2022-08-03"
 categories:
-  - 3D Printing
-  - Diorama
-  - Elegoo Mars Pro SLA
   - Miniatures
-  - WH40K
 tags:
-  - 3D Printing
   - Deutsch
-  - Diorama
+  - 3D Printing
+  - Kill Team
   - WH40K
+  - Diorama
+  - Tinkering
 series: []
 ---
 ![Ecludian Starstriders](img/DSC01139.jpg)

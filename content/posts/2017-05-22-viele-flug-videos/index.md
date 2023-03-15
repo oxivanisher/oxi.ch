@@ -10,15 +10,16 @@ lang: de
 type: post
 date: "2017-05-22"
 categories:
-  - FPV Racing
-  - QAV-Skitzo
-  - Quadcopter
   - RC
 tags:
+  - Deutsch
   - FPV Racing
+  - Freestyle
   - QAV-Skitzo
   - Quadcopter
-  - RC
+  - Tips
+  - FPV
+  - Youtube
 series: []
 
 ---

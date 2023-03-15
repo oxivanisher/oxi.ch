@@ -10,19 +10,13 @@ lang: de
 type: post
 date: "2017-01-13"
 categories:
-  - Quadcopter
+  - IT
   - RC
-  - FPV
-  - Racing
-  - GEP130X
 tags:
   - Quadcopter
-  - RC
   - FPV
-  - Racing
-  - GEP130X
+  - Youtube
 series: []
-
 ---
 Ich habe gestern Abend einer <a href="https://www.youtube.com/watch?v=jpQMXJlK7TQ" target="_blank">erste Version meines YouTube Channel Intros</a>&nbsp;zusammengestellt und hochgeladen:
 

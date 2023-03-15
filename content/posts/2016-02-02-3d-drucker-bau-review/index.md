@@ -11,14 +11,15 @@ type: post
 date: "2016-02-01"
 categories:
   - 3D Printing
+tags:
+  - 3D Printing
+  - Deutsch
   - Arduino
   - Kossel
   - Octoprint
   - RepRap
   - Tinkering
-tags:
-  - 3D Printing
-  - Deutsch
+  - Tips
 series: []
 ---
 In den letzten zwei Wochen habe ich mir einen Kossel XL von <a href="http://de.aliexpress.com/wholesale?SearchText=kossel+xl" target="&quot;_blank">AliExpress</a> zusammengebaut und in Betrieb genommen. Obwohl ein paar Probleme dabei auftraten, war das Ganze grundsätzlich relativ einfach vonstatten gegangen.
@@ -35,10 +36,10 @@ Als neuer <a href="http://de.aliexpress.com/wholesale?SearchText=kossel+xl" targ
 
 Die folgenden Probleme hatten mich leider teilweise viel Zeit gekostet. Somit brauchte ich ca. fünf Abende statt einen, um den Kossel XL in Betrieb zu nehmen. Nicht alle Probleme waren jedoch auf die China-Qualität zurückzuführen und hätten mit einer besseren Methodik meinerseits viel weniger Zeit in Anspruch genommen:
 
-  * Hätte ich die SD Karte, welche verschweisst und ohne Kommentar mitgeliefert wurde, auch nur einmal in einen PC gesteckt, hätte ich mir sehr, sehr viel &#8220;trial & error&#8221; sparen können: Auf dieser befand sich eine komplette Bau-Anleitung (inkl. Videos). Ich hatte stattdessen YouTube build Videos geschaut, die aber nicht explizit für meinen Drucker waren. Auch waren jegliche Files, auf welche ich später noch eingehen werde, für die <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">Marlin Firmware</a> auf der SD vorhanden. Sogar Anleitungen zum besseren Kalibrieren sowie diverse Applikationen wären vorhanden gewesen.
-  * Bei den Endstops waren die Stecker falsch gecrimpt. Sie machten keinen Kontakt. Die Stecker wurden sicher nicht vom Shop selbst hergestellt, stellt aber ein klarer Qualitätsmangel dar. Hätte ich diese beim ersten Einbauen kurz getestet, hätte ich mir auch da viel Zeit sparen können, da ich als Neuling zuerst stundenlang in der <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">Marlin Firmware</a> nach Konfigurationsfehlern gesucht hatte.
-  * Das mitgelieferte Heated-Bed verbrannte zu viel Strom. Dies ist ein Fehler, der dem <a href="http://de.aliexpress.com/store/1800400" target="&quot;_blank">Shop</a> inzwischen bewusst ist. Deswegen werden heute andere Heated-Bed mit dem Drucker verschickt. Sobald das Neue angekommen ist und ich es eingebaut habe, werde ich schauen, ob es auch wirklich besser funktioniert. Das &#8220;alte&#8221; glasige mit aufgeklebtem Heizpad braucht 300 W (was zu viel ist für das <a href="http://reprap.org/wiki/RAMPS_1.4" target="_blank">RAMPS</a> board). Das &#8220;neue&#8221; (Aluminium mit integriertem Heizelement) soll 120 W brauchen. Ich habe schon mehrfach den <a href="https://de.wikipedia.org/wiki/Magic_Smoke" target="_blank">Magic Smoke</a> erlebt und <a href="https://de.wikipedia.org/wiki/Metall-Oxid-Halbleiter-Feldeffekttransistor" target="_blank">MOSFETs</a> verbrannt, weil ich das Heated-Bed ausreizen wollte und &#8220;rum gespielt&#8221; habe. Glücklicherweise sind die <a href="https://de.wikipedia.org/wiki/Metall-Oxid-Halbleiter-Feldeffekttransistor" target="_blank">MOSFETs</a> mehr oder weniger eine Sollbruchstelle (welche vorher noch mit einer Sicherung geschützt wären, würde man diese nicht zurücksetzen) und man kann diese relativ einfach selbst ersetzen. Vorausgesetzt man kann ein wenig mit dem Lötkolben umgehen. Ein entsprechender <a href="https://de.wikipedia.org/wiki/Metall-Oxid-Halbleiter-Feldeffekttransistor" target="_blank">MOSFET</a> kostet bei <a href="http://farnell.com/" target="_blank">farnell.com</a> ca. 2.50 Franken.
-  * Leider war keine Filament-Spulenhalterung dabei. Dies war aber dann mein erstes, richtiges Druckprojekt. Ich habe die super coolen <a href="http://www.thingiverse.com/thing:454808" target="_bank">Gears</a> und die verlängerten Halter für den Kossel XL von <a href="https://www.thingiverse.com" target="_blank">Thingiverse</a> heruntergeladen, drucken und montieren können.
+* Hätte ich die SD Karte, welche verschweisst und ohne Kommentar mitgeliefert wurde, auch nur einmal in einen PC gesteckt, hätte ich mir sehr, sehr viel &#8220;trial & error&#8221; sparen können: Auf dieser befand sich eine komplette Bau-Anleitung (inkl. Videos). Ich hatte stattdessen YouTube build Videos geschaut, die aber nicht explizit für meinen Drucker waren. Auch waren jegliche Files, auf welche ich später noch eingehen werde, für die <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">Marlin Firmware</a> auf der SD vorhanden. Sogar Anleitungen zum besseren Kalibrieren sowie diverse Applikationen wären vorhanden gewesen.
+* Bei den Endstops waren die Stecker falsch gecrimpt. Sie machten keinen Kontakt. Die Stecker wurden sicher nicht vom Shop selbst hergestellt, stellt aber ein klarer Qualitätsmangel dar. Hätte ich diese beim ersten Einbauen kurz getestet, hätte ich mir auch da viel Zeit sparen können, da ich als Neuling zuerst stundenlang in der <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">Marlin Firmware</a> nach Konfigurationsfehlern gesucht hatte.
+* Das mitgelieferte Heated-Bed verbrannte zu viel Strom. Dies ist ein Fehler, der dem <a href="http://de.aliexpress.com/store/1800400" target="&quot;_blank">Shop</a> inzwischen bewusst ist. Deswegen werden heute andere Heated-Bed mit dem Drucker verschickt. Sobald das Neue angekommen ist und ich es eingebaut habe, werde ich schauen, ob es auch wirklich besser funktioniert. Das &#8220;alte&#8221; glasige mit aufgeklebtem Heizpad braucht 300 W (was zu viel ist für das <a href="http://reprap.org/wiki/RAMPS_1.4" target="_blank">RAMPS</a> board). Das &#8220;neue&#8221; (Aluminium mit integriertem Heizelement) soll 120 W brauchen. Ich habe schon mehrfach den <a href="https://de.wikipedia.org/wiki/Magic_Smoke" target="_blank">Magic Smoke</a> erlebt und <a href="https://de.wikipedia.org/wiki/Metall-Oxid-Halbleiter-Feldeffekttransistor" target="_blank">MOSFETs</a> verbrannt, weil ich das Heated-Bed ausreizen wollte und &#8220;rum gespielt&#8221; habe. Glücklicherweise sind die <a href="https://de.wikipedia.org/wiki/Metall-Oxid-Halbleiter-Feldeffekttransistor" target="_blank">MOSFETs</a> mehr oder weniger eine Sollbruchstelle (welche vorher noch mit einer Sicherung geschützt wären, würde man diese nicht zurücksetzen) und man kann diese relativ einfach selbst ersetzen. Vorausgesetzt man kann ein wenig mit dem Lötkolben umgehen. Ein entsprechender <a href="https://de.wikipedia.org/wiki/Metall-Oxid-Halbleiter-Feldeffekttransistor" target="_blank">MOSFET</a> kostet bei <a href="http://farnell.com/" target="_blank">farnell.com</a> ca. 2.50 Franken.
+* Leider war keine Filament-Spulenhalterung dabei. Dies war aber dann mein erstes, richtiges Druckprojekt. Ich habe die super coolen <a href="http://www.thingiverse.com/thing:454808" target="_bank">Gears</a> und die verlängerten Halter für den Kossel XL von <a href="https://www.thingiverse.com" target="_blank">Thingiverse</a> heruntergeladen, drucken und montieren können.
 
 ![Kossel XL Filament Spule](img/DSC_0015.jpg)
 
@@ -54,10 +55,10 @@ Die mitgelieferte Firmware war Marlin 1.0. Diese ist inzwischen leider über ein
 
 Der Drucker steht in meiner Werkstatt. Zurzeit beträgt die Raumtemperatur 14°C, was relativ kühl ist. Durch das Heated-Bed-Problem verschärft sich die Situation massiv. Durch diese Umstände habe ich das Problem, dass das Druckobjekt nicht gut genug auf der Platte klebt. Ich habe es mit diversen &#8220;Tricks&#8221; und deren Kombinationen versucht. So zum Beispiel:
 
-  * Blaues Malerabdeckband
-  * Haarspray
-  * Fixierspray für Zeichnungen
-  * Vorheizen mit Heissluftpistole (heizt zwar super, kühlt aber auch schnell wieder aus)
+* Blaues Malerabdeckband
+* Haarspray
+* Fixierspray für Zeichnungen
+* Vorheizen mit Heissluftpistole (heizt zwar super, kühlt aber auch schnell wieder aus)
 
 Leider funktioniert keiner dieser Tricks perfekt, solange das Heated-Bed kalt bleibt/wird.
 
@@ -65,10 +66,10 @@ Leider funktioniert keiner dieser Tricks perfekt, solange das Heated-Bed kalt bl
 
 Da alles Opensource ist und dieser Drucker definitiv zum Weiterentwickeln ausgelegt ist, habe ich auch nach der selbst hergestellten Filament-Spulenhalterung noch weitere Projektideen für Druckerbestandteile. Diese werde ich hier auf der Seite jeweils auch dokumentieren:
 
-  * Webcam Halterung
-  * Smart LCD Controller Case
-  * Einbau eines Relais, damit das eingebaute Arduino die 12V Versorgung selbst ein- und ausschalten kann
-  * Eine neue &#8220;Arduino mit RAMPS&#8221; Halterung (die alte habe ich unabsichtlich zerstört)
+* Webcam Halterung
+* Smart LCD Controller Case
+* Einbau eines Relais, damit das eingebaute Arduino die 12V Versorgung selbst ein- und ausschalten kann
+* Eine neue &#8220;Arduino mit RAMPS&#8221; Halterung (die alte habe ich unabsichtlich zerstört)
 
 ### Eingesetzte Software
 
@@ -78,12 +79,12 @@ Ich habe mich für Opensource entschieden, wenn es um die Software geht. Dafür 
 
 Als Verfechter der Opensource-Bewegung, freue ich mich natürlich besonders, dass es wirklich möglich ist, alles komplett mit Opensource Soft- und Hardware zu betreiben:
 
-  * <a href="http://reprap.org/wiki/Kossel" target="_blank">Kossel</a> XL
-  * <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">Marlin Firmware</a> auf einem <a href="https://www.arduino.cc/" target="_blank">Arduino Mega 2560</a>
-  * <a href="http://reprap.org/wiki/RAMPS_1.4" target="_blank">RAMPS 1.4 EFB</a>
-  * <a href="http://reprap.org/wiki/RepRapDiscount_Smart_Controller" target="_blank">Smart LCD Controller</a>
-  * <a href="http://octoprint.org/download/" target="_blank">Octoprint (Octopi)</a>
-  * <a href="http://slic3r.org/" target="_blank">slic3r</a>
+* <a href="http://reprap.org/wiki/Kossel" target="_blank">Kossel</a> XL
+* <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">Marlin Firmware</a> auf einem <a href="https://www.arduino.cc/" target="_blank">Arduino Mega 2560</a>
+* <a href="http://reprap.org/wiki/RAMPS_1.4" target="_blank">RAMPS 1.4 EFB</a>
+* <a href="http://reprap.org/wiki/RepRapDiscount_Smart_Controller" target="_blank">Smart LCD Controller</a>
+* <a href="http://octoprint.org/download/" target="_blank">Octoprint (Octopi)</a>
+* <a href="http://slic3r.org/" target="_blank">slic3r</a>
 
 ### Erste Verwendungen
 

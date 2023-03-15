@@ -10,10 +10,16 @@ lang: de
 type: post
 date: "2018-02-26"
 categories:
-  - Uncategorized
-  - FPV
+  - RC
 tags:
+  - Deutsch
+  - Freestyle
   - FPV
+  - SkyShadow S800
+  - TBS Caipirinha II
+  - Tips
+  - Wings
+  - Youtube
 series: []
 ---
 Winterzeit = Bastelzeit

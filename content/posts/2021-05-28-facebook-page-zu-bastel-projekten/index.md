@@ -10,12 +10,11 @@ lang: de
 type: post
 date: "2021-05-28"
 categories:
-  - Blog
-  - Tinker
-  - Updates
-  - WH40K
+  - IT
 tags:
-  - facebook
+  - Deutsch
+  - Blog
+  - Tinkering
 series: []
 ---
 Meine Facebook Page auf welcher weitere Bastel-Projekte zu finden sind ist eigentlich schon lange online, aber ich hatte sie noch nie richtig Kommuniziert. 😀

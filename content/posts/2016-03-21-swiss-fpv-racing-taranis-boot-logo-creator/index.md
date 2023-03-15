@@ -10,13 +10,11 @@ lang: de
 type: post
 date: "2016-03-21"
 categories:
-  - Development
-  - FPV Racing
-  - Quadcopter
+  - RC
 tags:
+  - Deutsch
   - FPV
-  - Racing
-  - Taranis
+  - Development
 series: []
 
 ---

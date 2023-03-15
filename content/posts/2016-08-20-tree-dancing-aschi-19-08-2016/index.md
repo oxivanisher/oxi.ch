@@ -9,15 +9,16 @@ draft: false
 type: post
 date: "2016-08-20"
 categories:
+  - RC
+tags:
+  - Deutsch
+  - English
+  - Freestyle
+  - FPV
   - DALRC RX251
   - FPV Racing
   - Quadcopter
-  - RC
-tags:
-  - Acro
-  - FPV
-  - Quadcopter
-  - Racing
+  - Youtube
 series: []
 ---
 {{< youtube rdhilPibmBA >}}

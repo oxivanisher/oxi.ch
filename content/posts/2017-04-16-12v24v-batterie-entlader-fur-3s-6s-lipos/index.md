@@ -11,13 +11,15 @@ lang: de
 type: post
 date: "2017-04-16"
 categories:
-  - 3D Printing
   - RC
   - Tinkering
 tags:
+  - Deutsch
   - 3D Printing
+  - 3D Design
   - RC
   - Tinkering
+  - Youtube
 series: []
 ---
 Im folgenden Video sieht man, wie ich meinen selber gebauten Batterie-Entlader baue:

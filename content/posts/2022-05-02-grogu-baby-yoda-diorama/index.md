@@ -1,7 +1,7 @@
 ---
-title: Grogu (Baby Yoda)
+title: Grogu (Baby Yoda) - Diorama
 author: oxi
-subtitle: "Diorama"
+subtitle: ""
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
@@ -10,14 +10,13 @@ lang: de
 type: post
 date: "2022-05-02"
 categories:
-  - 3D Printing
-  - Diorama
-  - Elegoo Mars Pro SLA
   - Miniatures
 tags:
-  - 3D Printing
   - Deutsch
+  - 3D Printing
+  - Elegoo Mars Pro SLA
   - Diorama
+  - Tinkering
 series: []
 ---
 ![Grogu](img/DSC00958_cut.jpg)

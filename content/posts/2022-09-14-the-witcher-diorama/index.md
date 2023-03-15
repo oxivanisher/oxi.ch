@@ -10,14 +10,11 @@ lang: de
 type: post
 date: "2022-09-14"
 categories:
-  - 3D Printing
-  - Diorama
-  - Elegoo Mars Pro SLA
   - Miniatures
-  - Tinker
 tags:
-  - 3D Printing
   - Deutsch
+  - 3D Printing
+  - Elegoo Mars Pro SLA
   - Diorama
   - Tinkering
 series: []

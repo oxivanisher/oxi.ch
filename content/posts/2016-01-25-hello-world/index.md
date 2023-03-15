@@ -10,9 +10,9 @@ date: "2016-01-25"
 lang: en
 categories:
   - Blog
-  - Updates
 tags:
-  - Blog
+  - Hosting
+  - English
 series: []
 ---
 In lack of any meaningful texts, this website is very small and mainly a link collection to my stuff.

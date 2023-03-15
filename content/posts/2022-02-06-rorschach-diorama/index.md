@@ -1,7 +1,7 @@
 ---
-title: Rorschach
+title: Rorschach - Diorama
 author: oxi
-subtitle: "Diorama"
+subtitle: "A Comedian died last night, and nobody cares. Nobody cares but me."
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
@@ -11,14 +11,13 @@ lang: de
 type: post
 date: "2022-02-06"
 categories:
-  - 3D Printing
-  - Diorama
-  - Elegoo Mars Pro SLA
   - Miniatures
 tags:
-  - 3D Printing
   - Deutsch
+  - 3D Printing
+  - Elegoo Mars Pro SLA
   - Diorama
+  - Tinkering
 series: []
 ---
 ![Rorschach von Watchmen](img/DSC00849_optimized.jpg)

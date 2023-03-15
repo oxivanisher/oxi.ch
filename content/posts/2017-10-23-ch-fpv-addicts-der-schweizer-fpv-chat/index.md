@@ -10,9 +10,9 @@ lang: de
 type: post
 date: "2017-10-23"
 categories:
-  - Uncategorized
-  - FPV
+  - RC
 tags:
+  - Deutsch
   - FPV
 series: []
 ---

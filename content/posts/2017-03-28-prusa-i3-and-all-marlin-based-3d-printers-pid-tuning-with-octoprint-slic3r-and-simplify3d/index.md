@@ -11,14 +11,14 @@ type: post
 date: "2017-03-28"
 categories:
   - 3D Printing
+tags:
+  - English
+  - 3D Printing
   - Kossel
   - Octoprint
   - Prusa
   - RepRap
-  - Tip
-tags:
-  - 3D Printing
-  - octoprint
+  - Tips
 series: []
 ---
 This content is available as a German video and English blog post.
