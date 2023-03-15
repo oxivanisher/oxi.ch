@@ -1,7 +1,7 @@
 ---
-title: The Witcher Diorama
+title: The Witcher
 author: oxi
-subtitle: ""
+subtitle: "Diorama"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false

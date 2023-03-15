@@ -1,7 +1,7 @@
 ---
-title: Thrall Bust
+title: Thrall
 author: oxi
-subtitle: ""
+subtitle: "Bust"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false

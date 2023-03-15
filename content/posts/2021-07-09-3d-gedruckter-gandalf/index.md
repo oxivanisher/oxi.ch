@@ -1,7 +1,7 @@
 ---
 title: 3D Gedruckter Gandalf
 author: oxi
-subtitle: ""
+subtitle: "Diorama"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false

@@ -1,7 +1,7 @@
 ---
-title: Elucidian Starstriders (Warhammer 40K Kill Team)
+title: Elucidian Starstriders
 author: oxi
-subtitle: ""
+subtitle: "Warhammer 40K Kill Team"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false

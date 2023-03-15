@@ -1,7 +1,7 @@
 ---
 title: Stargate SG-1 Cheops-Klasse Raumschiff
 author: oxi
-subtitle: ""
+subtitle: "Diorama"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: true

@@ -1,7 +1,7 @@
 ---
-title: Grogu (Baby Yoda) Diorama
+title: Grogu (Baby Yoda)
 author: oxi
-subtitle: ""
+subtitle: "Diorama"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
