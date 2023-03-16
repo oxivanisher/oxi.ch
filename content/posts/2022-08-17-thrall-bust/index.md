@@ -1,7 +1,7 @@
 ---
-title: Thrall
+title: Thrall - Bust
 author: oxi
-subtitle: "Bust"
+subtitle: "For the Horde!"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false

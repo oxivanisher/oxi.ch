@@ -1,7 +1,7 @@
 ---
-title: The Witcher
+title: The Witcher - Diorama
 author: oxi
-subtitle: "Diorama"
+subtitle: "You don't need mutations to strip men of their humanity."
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
