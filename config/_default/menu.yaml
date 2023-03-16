@@ -19,71 +19,71 @@ main:
 
   - identifier: "3d-printing"
     name: "3D Printing"
-    url: "/3d-printing/"
+    url: "/series/3d-printing/"
     weight: 20
 
-  - identifier: "3d-printer-livestream"
-    parent: "3d-printing"
-    name: "3D-Printer Livestream"
-    url: "/3d-printer-livestream/"
-    weight: 21
+  # - identifier: "3d-printer-livestream"
+  #   parent: "3d-printing"
+  #   name: "3D-Printer Livestream"
+  #   url: "/3d-printer-livestream/"
+  #   weight: 21
 
-  - identifier: "3d-printing-service"
-    parent: "3d-printing"
-    name: "3D-Printing Service"
-    url: "/3d-printing-service/"
-    weight: 22
+  # - identifier: "3d-printing-service"
+  #   parent: "3d-printing"
+  #   name: "3D-Printing Service"
+  #   url: "/3d-printing-service/"
+  #   weight: 22
 
-  - identifier: "3d-printing-background"
-    parent: "3d-printing"
-    name: "3D-Printing Hintergrund"
-    url: "/3d-printing-background/"
-    weight: 23
+  # - identifier: "3d-printing-background"
+  #   parent: "3d-printing"
+  #   name: "3D-Printing Hintergrund"
+  #   url: "/3d-printing-background/"
+  #   weight: 23
 
 
   - identifier: "rc"
     name: "FPV | RC | Modellbau"
-    url: "/rc/"
+    url: "/series/rc/"
     weight: 30
 
-  - identifier: "fpvhub"
-    parent: "rc"
-    name: "FPV Hub"
-    url: "/fpvhub/"
-    weight: 31
+  # - identifier: "fpvhub"
+  #   parent: "rc"
+  #   name: "FPV Hub"
+  #   url: "/fpvhub/"
+  #   weight: 31
 
 
-  - identifier: "computer"
-    name: "Computer"
-    url: "/computer/"
+  - identifier: "it"
+    name: "IT"
+    url: "/series/it/"
     weight: 40
 
-  - identifier: "foss"
-    parent: "computer"
-    name: "Opensource | Linux"
-    url: "/foss/"
-    weight: 41
+  # - identifier: "foss"
+  #   parent: "computer"
+  #   name: "Opensource | Linux"
+  #   url: "/foss/"
+  #   weight: 41
 
-  - identifier: "gaming"
-    parent: "computer"
-    name: "Gaming"
-    url: "/gaming/"
-    weight: 42
+  # - identifier: "gaming"
+  #   parent: "computer"
+  #   name: "Gaming"
+  #   url: "/gaming/"
+  #   weight: 42
 
-  - identifier: "hosting"
-    parent: "computer"
-    name: "Hosting"
-    url: "/hosting/"
-    weight: 43
+  # - identifier: "hosting"
+  #   parent: "computer"
+  #   name: "Hosting"
+  #   url: "/hosting/"
+  #   weight: 43
 
 
   - identifier: "tinkering"
     name: "Tinkering | Basteln"
-    url: "/tinkering/"
+    url: "/series/tinkering/"
     weight: 50
 
-  - identifier: "home-automation"
-    parent: "tinkering"
-    name: "Home Automation"
-    url: "/home-automation/"
-    weight: 51
+  # - identifier: "home-automation"
+  #   parent: "tinkering"
+  #   name: "Home Automation"
+  #   url: "/home-automation/"
+  #   weight: 51
