@@ -13,6 +13,8 @@ categories:
 tags:
   - 3D Printing
   - Deutsch
+series:
+  - 3D Printing
 ---
 3D-Printing als Technologie existiert schon seit über 30 Jahren. Jedoch stieg die Verbreitung erst in den letzten Jahren, nicht zuletzt weil <a href="https://techcrunch.com/2016/05/15/how-expiring-patents-are-ushering-in-the-next-generation-of-3d-printing/" target="_blank" rel="noopener">2009 Patente auf der FDM-Methode ausgelaufen sind</a>. In letzter Zeit hat sich der 3D-Druck rasant weiterentwickelt und ist heute so zugänglich, dass jeder, der Interesse hat, sich in die Materie einarbeiten kann. Auch preislich ist enorm viel passiert! Die ersten Drucker mit akzeptablen Ergebnissen sind bereits unter 200$ erhältlich.
 

@@ -13,6 +13,8 @@ categories:
 tags:
   - 3D Printing
   - Deutsch
+series:
+  - 3D Printing
 ---
 ### Dienstleistungen
 

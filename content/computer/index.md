@@ -12,6 +12,8 @@ categories:
   - IT
 tags:
   - Deutsch
+series:
+  - IT
 ---
 ## Meine PC-Interessen sind breit gefächert. Sie beinhalten&nbsp;unter anderen:
 

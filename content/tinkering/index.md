@@ -14,7 +14,8 @@ tags:
   - Deutsch
   - Tinkering
   - Löten
-series: []
+series:
+  - Tinkering
 ---
 Die Verbindung von [3D-Druck](./3d-printing/), Elektronik und Programmierung zum Beispiel von <a href="https://www.arduino.cc/" target="_blank" rel="noopener">Arduinos</a> oder ESPs ermöglicht es heutzutage sehr viele Dinge Zuhause selber zu Bauen. Die einzig Grenze ist die eigene Phantasie. 😉
 

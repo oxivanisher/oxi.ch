@@ -14,6 +14,8 @@ tags:
   - Linux
   - Opensource
   - English
+series:
+  - IT
 ---
 ### Linux
 

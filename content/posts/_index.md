@@ -5,6 +5,7 @@ aliases:
   - articles
   - blog
 title: Posts
-tags:
-  - index
+categories: []
+tags: []
+series: []
 ---

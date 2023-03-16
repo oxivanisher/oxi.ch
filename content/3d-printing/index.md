@@ -14,6 +14,8 @@ tags:
   - 3D Printing
   - Deutsch
   - English
+series:
+  - 3D Printing
 ---
 ## Herzlich willkommen auf meiner 3D-Printing Seite!
 

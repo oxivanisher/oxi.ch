@@ -13,6 +13,8 @@ categories:
 tags:
   - Linux
   - English
+series:
+  - IT
 ---
 I am hosting some websites, game servers and other things on the internet with my Linux servers only for personal friends or projects. Once there was a list with examples here, but since it was always outdated, I just removed it.
 

@@ -14,6 +14,8 @@ tags:
   - Tinkering
   - IoT
   - English
+series:
+  - Tinkering
 ---
 The Idea behind JamesII Butler is to implement smarthome features in combination with multimedia, networking and interactive applications to your existing infrastructure. It consists of distributed python nodes which connect via a RabbitMQ server to talk to each other. There is one core node which hosts the configuration and some basic features. The system is also very handy in combination with RaspberryPi&#8217;s (<http://www.raspberrypi.org/>).
 
