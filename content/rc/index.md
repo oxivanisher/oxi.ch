@@ -1,6 +1,6 @@
 ---
-title: FPV | RC | Modellbau
-subtitle: ""
+title: Über Modellbau
+subtitle: "Das beinhaltet auch FPV und RC"
 header_img: "img/drone-header.jpg"
 comment: false
 toc: false

@@ -25,3 +25,9 @@ Testing HUGO to migrate away from wordpress... This is currently tested on [oxiv
 * https://oxi.ch/github > https://github.com/oxivanisher/PWM-Temp-Control
 * https://oxi.ch/copy/index.php > https://cloud.oxi.ch/index.php/s/G4Sc16a109qQsBu
 * https://oxi.ch/gschichtli/index.php > https://cloud.oxi.ch/index.php/s/6Uw5g16kRHFAQbc
+
+## Important commands
+### Initiate the submodules
+```plaintext
+git submodule update --init
+```

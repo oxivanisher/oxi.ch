@@ -2,7 +2,7 @@
 
 main:
   - identifier: "home"
-    name: "Home"
+    name: "Blog"
     url: "/"
     weight: -100
 
@@ -42,7 +42,7 @@ main:
 
 
   - identifier: "rc"
-    name: "FPV | RC | Modellbau"
+    name: "Modellbau"
     url: "/series/rc/"
     weight: 30
 
@@ -78,7 +78,7 @@ main:
 
 
   - identifier: "tinkering"
-    name: "Tinkering | Basteln"
+    name: "Tinkering"
     url: "/series/tinkering/"
     weight: 50
 

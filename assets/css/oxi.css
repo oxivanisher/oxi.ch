@@ -1,12 +1,21 @@
 /* puppet theme additions */
-.nav {
-  text-shadow: 0px 0px 6px black;
+/* page title */
+.intro-header h1 {
+  -webkit-text-stroke: 2px black;
+  text-shadow: 0px 0px 10px black;
 }
 
-.navbar-brand {
-  text-shadow: 0px 0px 6px black;
+/* page subtitle */
+.intro-header .subheading {
+  text-shadow: 0px 0px 10px black;
 }
 
-.intro-header {
-  text-shadow: 0px 0px 6px black;
+/* subtitle */
+.intro-header .meta {
+  text-shadow: 0px 0px 10px black;
+}
+
+.navbar {
+  background: rgba(0, 0, 0, .45);
+  background-blend-mode: darken;
 }

@@ -1,6 +1,6 @@
 ---
 title: About me
-description: About me
+description: Wer bin ich?
 subtitle: ""
 header_img: "img/workbench-header.jpg"
 comment: false
@@ -12,8 +12,9 @@ date: "2016-01-25"
 aliases:
   - contact
   - about-us
+short: true
 ---
-{{< figure src="img/T-Systems-Avatar-Small.jpg" alt="Marc Urben" width="150px" >}}
+{{< figure src="img/me_2022_2_square.jpg" alt="Marc Urben" width="150px" >}}
 
 **Marc Urben** aka **oxi** aka **oXiVanisher**, Swizerland
 

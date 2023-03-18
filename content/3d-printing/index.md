@@ -1,5 +1,5 @@
 ---
-title: 3D-Printing
+title: Über 3D-Printing
 subtitle: ""
 header_img: "img/3dprinting-header.jpg"
 comment: false

@@ -1,6 +1,6 @@
 ---
-title: Tinkering | Basteln
-subtitle: ""
+title: Über Tinkering
+subtitle: "Die deutsche Übersetzung wäre wohl Basteln"
 header_img: "img/workbench-header.jpg"
 comment: false
 toc: false
