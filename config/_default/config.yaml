@@ -4,12 +4,13 @@ baseURL: https://oxi.ch/
 title: oxi.ch
 theme:
   - puppet
+  - hugo-redirect
 
 themesDir: "themes"
 copyright: "oXiVanisher"
 paginat: 3
-languageCode: "en"
-defaultContentLanguage: "en"
+languageCode: "de"
+defaultContentLanguage: "de"
 
 timeout: 1800s
 
@@ -47,10 +48,3 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
-## old design stuff
-# timeZone: Europe/Zurich
-# languageCode: en-us
-# defaultContentLanguage: de
-# permalinks:
-#   posts: /:year/:month/:day/:title/

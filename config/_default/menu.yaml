@@ -12,7 +12,7 @@ main:
     weight: 99
 
   - identifier: "archive"
-    name: "Archive"
+    name: "Archiv"
     url: "/archive/"
     weight: 100
 
