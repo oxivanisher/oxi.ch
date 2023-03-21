@@ -18,6 +18,7 @@ series: []
 ---
 ![Eines meiner Designes](img/DSC_0277.jpg)
 
-Ich habe angefangen, meine 3d Designs auch bei [Thingiverse](http://www.thingiverse.com/oxivanisher/designs) hochzuladen. Diese Designs können bei mir auch über [www.3dhubs.com](https://oxi.ch/3dhub) bestellt werden.
+~~Ich habe angefangen, meine 3d Designs auch bei Thingiverse hochzuladen. Diese Designs können bei mir auch über www.3dhubs.com bestellt werden.~~
+Anmerkung von oxi vom 21.03.2023: Die Designs sind heute bei [Printables](https://www.printables.com/social/730-oxivanisher/models) verfügbar und können [hier bei mir gedruckt](/3d-printing-service/) werden.
 
 Let's get this party started! 😀
