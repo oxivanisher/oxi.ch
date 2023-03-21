@@ -3,6 +3,8 @@ https://github.com/mfg92/hugo-shortcode-gallery/blob/master/layouts/shortcodes/g
 {{ $currentPage := . }}
 {{ $thumbnailResizeOptions := .Get "thumbnailResizeOptions" | default (.Site.Params.galleryThumbnailResizeOptions |
 default "300x150 q85 Lanczos") }}
+{{ $galleryShowFilenames := .Get "galleryShowFilenames" | default (.Site.Params.galleryShowFilenames | default true)}}
+
 {{ $imageResizeOptions := .Get "imageResizeOptions" | default .Site.Params.galleryImageResizeOptions }}
 {{ $sortOrder := .Get "sortOrder" | default (.Site.Params.gallerySortOrder | default "asc") }}
 {{ $IGName := (printf "image-gallery-%v-%v" .Page.File.UniqueID .Ordinal)}}
@@ -68,7 +70,11 @@ default "300x150 q85 Lanczos") }}
 
   {{ $commentFileName := print $original.Name ".txt"}}
   {{ $comment := $currentPage.Page.Resources.GetMatch ($commentFileName) }}
-  {{ $imagetitle := path.Base .Name }}
+
+  {{ $imagetitle := "" }}
+  {{ if $galleryShowFilenames }}
+  {{ $imagetitle = path.Base .Name }}
+  {{ end }}
   {{ if $comment }}
   {{ $imagetitle = htmlEscape $comment.Content }}
   {{ end }}

@@ -18,6 +18,7 @@ custom_css:
 
 galleryThumbnailResizeOptions: "200x200 q85"
 galleryImageResizeOptions: "1600x1600 q85"
+galleryShowFilenames: false
 
 sidebar:
   enable: true
