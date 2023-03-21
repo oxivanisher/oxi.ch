@@ -20,7 +20,8 @@ tags:
   - Tinkering
 series: []
 ---
-![Deatch Watch](img/DSC01147.jpg)
+{{< figure src="img/DSC01147.jpg" alt="Deatch Watch" >}}
+
 Dieses Kill Team ist in relativ kurzer Zeit entstanden. Dies auch wieder dank den Speed-Paints von The Army Painter.
 Der Zusammenbau dauerte ca. eine, das Bemalen ca. sieben Stunden (ohne die Bases).
 

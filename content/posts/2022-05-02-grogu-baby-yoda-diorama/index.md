@@ -19,7 +19,8 @@ tags:
   - Tinkering
 series: []
 ---
-![Grogu](img/DSC00958_cut.jpg)
+{{< figure src="img/DSC00958_cut.jpg" alt="Grogu" >}}
+
 Vor zwei Jahren habe ich meinen ersten Resin MSLA-3D-Drucker, einen Elegoo Pars Pro gekauft. Einer meiner ersten Drucke ist nun endlich bemalt worden. Ich habe die SpeedPaints von ArmyPainter dafür verwendet, welche den Vorgang massiv schneller gemacht haben. Zudem habe ich zum ersten mal mit Pigmenten gearbeitet um den Wüstenstaub am Grogus Gewand zu simulieren.
 
 {{< image-gallery gallery_dir="1" >}}

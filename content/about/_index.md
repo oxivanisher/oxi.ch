@@ -14,9 +14,8 @@ aliases:
   - about-us
 short: true
 ---
-{{< figure src="img/me_2022_2_square.jpg" alt="Marc Urben" width="150px" >}}
-
-**Marc Urben** aka **oxi** aka **oXiVanisher**, Swizerland
+{{< figure src="img/me_2022_2_square.jpg" alt="Marc Urben" width="500px" >}}
+**Marc Urben** aka **oxi** aka **oXiVanisher**, Swizerland / Schweiz
 
 ### I like:
 
@@ -33,10 +32,9 @@ short: true
 
 * <a href="https://twitter.com/oxivanisher" target="_blank" rel="noopener">@oxivanisher</a>
 * <a href="https://www.facebook.com/oxivanisher" target="_blank" rel="noopener">Facebook</a>
-* <a href="xmpp:oxi@oxi.ch" target="_blank" rel="noopener">Jabber</a>
 * <a href="https://www.youtube.com/user/oxivanisher/" target="_blank" rel="noopener">YouTube</a>
 * <a href="http://instagram.com/oxivanisher/" target="_blank" rel="noopener">Instagram</a>
 
 ### Creative links:
 
-* <a href="http://www.thingiverse.com/oxivanisher/designs" target="_blank" rel="noopener">Thingiverse</a>
+* <a href="https://www.printables.com/social/730-oxivanisher/models" target="_blank" rel="noopener">Printables</a>

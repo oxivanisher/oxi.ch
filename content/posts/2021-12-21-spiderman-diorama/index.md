@@ -19,9 +19,9 @@ tags:
   - Tinkering
 series: []
 ---
-Ich verwende hier das <a rel="noreferrer noopener" href="https://www.gambody.com/3d-models/spider-man-wall-crawler" target="_blank">Spider-Man Wall Crawler 3D Printing Figurine</a> Modell vom Creator <a rel="noreferrer noopener" href="https://www.gambody.com/user/view/id/3830" target="_blank">Rodman</a>. Der druck dauerte ca. zehn, alle Mal-Arbeiten zusätzlich ca. zwanzig Stunden.
+{{< figure src="img/DSC00828_optimized.jpg" alt="Spiderman" >}}
 
-![Spiderman](img/DSC00828_optimized.jpg)
+Ich verwende hier das <a rel="noreferrer noopener" href="https://www.gambody.com/3d-models/spider-man-wall-crawler" target="_blank">Spider-Man Wall Crawler 3D Printing Figurine</a> Modell vom Creator <a rel="noreferrer noopener" href="https://www.gambody.com/user/view/id/3830" target="_blank">Rodman</a>. Der druck dauerte ca. zehn, alle Mal-Arbeiten zusätzlich ca. zwanzig Stunden.
 
 {{< image-gallery gallery_dir="1" >}}
 

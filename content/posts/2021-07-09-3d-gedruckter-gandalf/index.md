@@ -20,9 +20,9 @@ tags:
   - Tinkering
 series: []
 ---
-Für ein Geburtstagsgeschenk habe ich den <a rel="noreferrer noopener" href="https://www.gambody.com/3d-models/gandalf-the-gray" target="_blank">Gandalf von Gamebody</a> auf dem Elegoo Mars Pro gedruckt.<figure class="wp-block-image size-large is-style-default">
+{{< figure src="img/1_resized-edited.jpg" alt="Gandalf 3D Printed" >}}
 
-![Gandalf 3D Printed](img/1_resized-edited.jpg)
+Für ein Geburtstagsgeschenk habe ich den <a rel="noreferrer noopener" href="https://www.gambody.com/3d-models/gandalf-the-gray" target="_blank">Gandalf von Gamebody</a> auf dem Elegoo Mars Pro gedruckt.<figure class="wp-block-image size-large is-style-default">
 
 Zudem habe ich seinen Stab mit einem Micro-LED versehen und mit sehr viel Geduld die Kabel verlegt sowie eine Öffnung in die Base gemacht. Damit diese Veränderungen nicht auffallen, habe ich diese mit Milliput &#8220;Weggespachtelt&#8221;.
 
