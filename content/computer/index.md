@@ -19,7 +19,7 @@ series:
 
 * Programmieren (meist in Python)
 * Multimedia Content erstellen ([Videos](https://www.youtube.com/user/oxivanisher/videos), [3D-Designs](http://www.thingiverse.com/oxivanisher/designs))
-* [IOT-Themen wie Heimautomatisierung](./jamesii/)
+* [IOT-Themen wie Heimautomatisierung](/home-automation/)
 * Automatisierung mit Ansible
 
 ### Spielen / Online Games
