@@ -10,6 +10,7 @@ Testing HUGO to migrate away from wordpress... This is currently tested on [oxiv
 ### Used stuff
 * https://github.com/roninro/hugo-theme-puppet
 * https://github.com/feimosi/baguetteBox.js
+* https://github.com/gcc42/hugo-redirect
 
 ### Currently not used stuff
 * https://github.com/devcows/hugo-universal-theme.git
