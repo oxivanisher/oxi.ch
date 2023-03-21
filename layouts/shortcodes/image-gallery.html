@@ -56,7 +56,7 @@ default "300x150 q85 Lanczos") }}
   {{ end }}
 
   {{/* Create thumbnail, rotate it if needed */}}
-  {{ $thumbnail := ($original.Fit (printf "%s %s" $thumbnailResizeOptions $rotation)) }}
+  {{ $thumbnail := ($original.Fill (printf "%s %s" $thumbnailResizeOptions $rotation)) }}
 
   {{ $full := "" }}
   {{ if $imageResizeOptions }}

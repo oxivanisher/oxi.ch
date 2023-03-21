@@ -16,10 +16,12 @@
 }
 
 .image-gallery a {
-  width: "200px";
-  height: "200px";
   display: inline-block;
   overflow: hidden;
   margin: 4px 6px;
   box-shadow: 0 0 4px -1px #000;
+}
+
+.image-gallery img {
+  margin: 0px;
 }
