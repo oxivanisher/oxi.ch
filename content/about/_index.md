@@ -22,6 +22,7 @@ short: true
 * [SciFi Series, Movies](https://trakt.tv/users/oxivanisher "My movie collection"), Stories, Games
 * [Opensource](https://wikipedia.org/wiki/Open_Source), [Linux](https://www.debian.org/ "My favorite linux distribution"), [RaspberryPi](http://www.raspberrypi.org/)
 * [RC Model planes and Quadcopters](https://fpvhub.ch/infos/geschichte)
+* [Karate](https://karateherzogenbuchsee.ch/)
 * [Youtube Videos](https://www.youtube.com/oxivanisher)
 * [Gaming](https://steamcommunity.com/id/oxivanisher/) (mostly Fantasy and SciFi)
 * [Scripting and Development](https://github.com/oxivanisher)
