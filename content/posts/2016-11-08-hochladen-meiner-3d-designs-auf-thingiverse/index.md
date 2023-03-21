@@ -18,6 +18,6 @@ series: []
 ---
 ![Eines meiner Designes](img/DSC_0277.jpg)
 
-Ich habe angefangen, meine 3d Designs auch bei <a href="http://www.thingiverse.com/oxivanisher/designs" target="_blank">Thingiverse</a> hochzuladen. Diese Designs können bei mir auch über <a href="https://oxi.ch/3dhub" target="_blank">www.3dhubs.com</a> bestellt werden.
+Ich habe angefangen, meine 3d Designs auch bei [Thingiverse](http://www.thingiverse.com/oxivanisher/designs) hochzuladen. Diese Designs können bei mir auch über [www.3dhubs.com](https://oxi.ch/3dhub) bestellt werden.
 
-Let&#8217;s get this party started! 😀
+Let's get this party started! 😀

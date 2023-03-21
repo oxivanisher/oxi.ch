@@ -19,10 +19,10 @@ tags:
   - Tips
 series: []
 ---
-Aus meiner Sicht fehlte eine Wissensdatenbank ähnlich wie <a href="http://stackoverflow.com/" target="_blank">StackOverflow</a> für die Themengebiete dieser Website. Das <a href="https://rc.oxi.ch" target="_blank">Wiki</a> ist zwar ausgezeichnet als Dokumentations-Plattform, für das konkrete Beantworten von Fragen ist es jedoch weniger geeignet.
+Aus meiner Sicht fehlte eine Wissensdatenbank ähnlich wie [StackOverflow](http://stackoverflow.com/) für die Themengebiete dieser Website. Das [Wiki](https://rc.oxi.ch) ist zwar ausgezeichnet als Dokumentations-Plattform, für das konkrete Beantworten von Fragen ist es jedoch weniger geeignet.
 
-Darum habe ich ein <a href="http://www.discourse.org/" target="_blank">Discourse</a> installiert und angefangen die ersten Themen aus dem Wiki zu migrieren. Falls sich jemand beteiligen möchte das Discourse zu füllen, nehme ich jede Hilfe gerne an. 😉
+Darum habe ich ein [Discourse](http://www.discourse.org/) installiert und angefangen die ersten Themen aus dem Wiki zu migrieren. Falls sich jemand beteiligen möchte das Discourse zu füllen, nehme ich jede Hilfe gerne an. 😉
 
-Zu finden ist diese neue Knowledge base (Wissensdatenbank) unter: <a href="https://ask.oxi.ch" target="_blank">ask.oxi.ch</a>
+Zu finden ist diese neue Knowledge base (Wissensdatenbank) unter: [ask.oxi.ch](https://ask.oxi.ch)
 
 Um die Anmeldung so einfach wie möglich zu machen, habe ich die OAuth Anmeldung mit Facebook, Google, Twitter und Github aktiviert. Wenn du also schon einen dieser Accounts hast, kannst du dich binnen Sekunden Registrieren und loslegen mit Fragen (oder Beantworten).

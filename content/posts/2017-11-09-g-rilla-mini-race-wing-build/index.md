@@ -21,17 +21,17 @@ tags:
   - Youtube
 series: []
 ---
-Ich konnte erneut ein spannendes Video zusammen mit <a href="http://www.dronefactory.ch/" target="_blank" rel="noopener">Dronefactory</a> erstellen. Dieses mal konnte ich einen Mini-Race-Wing von <a href="https://www.g-rilla.com/" target="_blank" rel="noopener">G-Rilla</a> mit dem neuen <a href="http://TBS PowerCube Racewing - DroneFactory.ch" target="_blank" rel="noopener">TBS PowerCube Racewing</a>, <a href="http://www.dronefactory.ch/produkt/team-blacksheep-core-pnp-pro-gpskompass-modul/" target="_blank" rel="noopener">TBS GPS</a> und <a href="http://www.dronefactory.ch/produkt/tbs-crossfire-micro-rx/" target="_blank" rel="noopener">TBS Crossfire</a> bauen:
+Ich konnte erneut ein spannendes Video zusammen mit [Dronefactory](http://www.dronefactory.ch/) erstellen. Dieses mal konnte ich einen Mini-Race-Wing von [G-Rilla](https://www.g-rilla.com/) mit dem neuen [TBS PowerCube Racewing](http://TBS PowerCube Racewing - DroneFactory.ch), [TBS GPS](http://www.dronefactory.ch/produkt/team-blacksheep-core-pnp-pro-gpskompass-modul/) und [TBS Crossfire](http://www.dronefactory.ch/produkt/tbs-crossfire-micro-rx/) bauen:
 
 {{< youtube 04F2bTfXY64 >}}
 
 Verwendete Komponenten:
-* <a href="http://www.dronefactory.ch/produkt/g-rilla-fpv-mini-racewing-pro-baukit/" target="_blank" rel="noopener">G-Rilla FPV Mini Racewing Pro Baukit</a>
-* <a href="http://www.dronefactory.ch/produkt/tbs-powercube-racewing/" target="_blank" rel="noopener">TBS PowerCube Racewing</a>
-* <a href="http://www.dronefactory.ch/produkt/t-motor-f40-pro-2400kv/" target="_blank" rel="noopener">T-Motor F40 PRO 2400KV</a>
-* <a href="http://www.dronefactory.ch/produkt/team-blacksheep-core-pnp-pro-gpskompass-modul/" target="_blank" rel="noopener">Team BlackSheep Core PNP Pro GPS&Kompass-Modul</a>
-* <a href="http://www.dronefactory.ch/produkt/runcam-swift-v2-2-1mm-linse/" target="_blank" rel="noopener">RunCam Swift 2 2.3mm</a>
-* <a href="http://www.dronefactory.ch/produkt/tbs-crossfire-micro-rx/" target="_blank" rel="noopener">TBS Crossfire Micro RX V2</a>
-* <a href="http://www.dronefactory.ch/produkt/gorilla-glue/" target="_blank" rel="noopener">Gorilla Glue</a>
+* [G-Rilla FPV Mini Racewing Pro Baukit](http://www.dronefactory.ch/produkt/g-rilla-fpv-mini-racewing-pro-baukit/)
+* [TBS PowerCube Racewing](http://www.dronefactory.ch/produkt/tbs-powercube-racewing/)
+* [T-Motor F40 PRO 2400KV](http://www.dronefactory.ch/produkt/t-motor-f40-pro-2400kv/)
+* [Team BlackSheep Core PNP Pro GPS&Kompass-Modul](http://www.dronefactory.ch/produkt/team-blacksheep-core-pnp-pro-gpskompass-modul/)
+* [RunCam Swift 2 2.3mm](http://www.dronefactory.ch/produkt/runcam-swift-v2-2-1mm-linse/)
+* [TBS Crossfire Micro RX V2](http://www.dronefactory.ch/produkt/tbs-crossfire-micro-rx/)
+* [Gorilla Glue](http://www.dronefactory.ch/produkt/gorilla-glue/)
 
-Die von mir erstellten und 3D gedruckten Teile sind wie immer bei Thingiverse verfügbar: <a href="https://www.thingiverse.com/oxivanisher/collections/g-rilla-fpv-mini-race-wing" target="_blank" rel="noopener">Thingiverse Kollegtion G-Rilla Mini Race Wing</a>
+Die von mir erstellten und 3D gedruckten Teile sind wie immer bei Thingiverse verfügbar: [Thingiverse Kollegtion G-Rilla Mini Race Wing](https://www.thingiverse.com/oxivanisher/collections/g-rilla-fpv-mini-race-wing)

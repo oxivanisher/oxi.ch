@@ -20,4 +20,4 @@ series: []
 ---
 ![Taranis Example](img/taranis_example.png)
 
-Ich habe einen Taranis Boot Logo creator gebaut damit ihr eure Taranis noch mehr Customizen könnt. Finden könnt ihr ihn hier: <a href="http://taranis.oxi.ch/" target="_blank">taranis.oxi.ch</a>
+Ich habe einen Taranis Boot Logo creator gebaut damit ihr eure Taranis noch mehr Customizen könnt. Finden könnt ihr ihn hier: [taranis.oxi.ch](http://taranis.oxi.ch/)

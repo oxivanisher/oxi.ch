@@ -17,11 +17,11 @@ tags:
 series:
   - 3D Printing
 ---
-### <a href="https://www.prusa3d.com/original-prusa-i3-mk3/" target="_blank" rel="noopener noreferrer">Prusa i3 MK3S+</a>
+### [Prusa i3 MK3S+](https://www.prusa3d.com/original-prusa-i3-mk3/)
 
 <img decoding="async" id="prusamk3" src="#" alt="Wenn kein Bild zu sehen ist, ist der Drucker gerade nicht am drucken.">
 
-### <a href="https://www.prusa3d.com/original-prusa-i3-mk3/" target="_blank" rel="noopener noreferrer">Prusa i3 MK3S+</a> with <a href="https://www.prusa3d.com/category/original-prusa-mmu2s/" target="_blank" rel="noopener noreferrer">MMU2S</a>
+### [Prusa i3 MK3S+](https://www.prusa3d.com/original-prusa-i3-mk3/) with [MMU2S](https://www.prusa3d.com/category/original-prusa-mmu2s/)
 
 <img decoding="async" id="prusamk3mmu" src="#" alt="Wenn kein Bild zu sehen ist, ist der Drucker gerade nicht am drucken.">
 

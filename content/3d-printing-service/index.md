@@ -26,7 +26,7 @@ series:
 
 ### Offerte einholen
 
-Nachdem du mir die Datei(en) in <a href="https://cloud.oxi.ch/s/q5s8MHZzkG9BBGA" target="_blank" rel="noopener noreferrer">meine Cloud hochgeladen</a> hast, füllst du <a href="https://goo.gl/forms/pnWwu950wZgCPqI83" target="_blank" rel="noopener noreferrer">dieses Formular</a> aus und ich melde mich so bald wie möglich für das weitere Vorgehen.
+Nachdem du mir die Datei(en) in [meine Cloud hochgeladen](https://cloud.oxi.ch/s/q5s8MHZzkG9BBGA) hast, füllst du [dieses Formular](https://goo.gl/forms/pnWwu950wZgCPqI83) aus und ich melde mich so bald wie möglich für das weitere Vorgehen.
 
 ### Wissenswertes
 
@@ -35,13 +35,13 @@ Nachdem du mir die Datei(en) in <a href="https://cloud.oxi.ch/s/q5s8MHZzkG9BBGA"
 * Materialien: PLA, PET-G, TPU, Ninjaflex
 * Diverse Farben für alle Materialien verfügbar
 * Eingesetzte Drucker: Prusa i3 MK2.5S und Prusa i3 MK3
-* Da der 3D-Druck nur als Hobby betrieben wird, ist es nicht möglich eine MWST auf allfälligen Rechnungen anzugeben.&nbsp;
-* Die Bezahlung erfolgt entweder auf IBAN CH66 0900 0000 3055 2373 8, via <a href="https://www.paypal.me/MarcUrben" target="_blank" rel="noopener noreferrer">PayPal</a> oder via TWINT (bei Abholung ist auch Barbezahlung möglich)
+* Da der 3D-Druck nur als Hobby betrieben wird, ist es nicht möglich eine MWST auf allfälligen Rechnungen anzugeben.
+* Die Bezahlung erfolgt entweder auf IBAN CH66 0900 0000 3055 2373 8, via [PayPal](https://www.paypal.me/MarcUrben) oder via TWINT (bei Abholung ist auch Barbezahlung möglich)
   ![Twint](/img/twint-150px.png)
 
 ### Aufwände, die zusätzlich anfallen können
 
-* Priorisierter Druck&nbsp;(dein Auftrag wird vor nicht-priorisierte gestellt)
+* Priorisierter Druck (dein Auftrag wird vor nicht-priorisierte gestellt)
 * Speziell aufwändige oder filigrane Drucke
 * Reparieren von fehlerhaften Dateien
 * Das entfernen der Support-Strukturen (Support-Material)

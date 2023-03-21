@@ -18,6 +18,6 @@ tags:
   - Youtube
 series: []
 ---
-Um das selbstgebaute Gehäuse meines Prusa i3 MK2 besser zu machen, habe ich eine Temperatur&nbsp;abhängige Steuerung für zwei PWM Lüfter gebaut. Je nach dem ob die Temperatur im Innenraum die gewünschte Innentemperatur überschreitet oder nicht, wird dynamisch die Drehzahl der Lüfter angepasst. Die Projektdateien sind auf [Github](https://github.com/oxivanisher/PWM-Temp-Control) hinterlegt. Dazu habe ich ein YouTube Video über das Projekt gemacht:
+Um das selbstgebaute Gehäuse meines Prusa i3 MK2 besser zu machen, habe ich eine Temperatur abhängige Steuerung für zwei PWM Lüfter gebaut. Je nach dem ob die Temperatur im Innenraum die gewünschte Innentemperatur überschreitet oder nicht, wird dynamisch die Drehzahl der Lüfter angepasst. Die Projektdateien sind auf [Github](https://github.com/oxivanisher/PWM-Temp-Control) hinterlegt. Dazu habe ich ein YouTube Video über das Projekt gemacht:
 
 {{< youtube LLqfkt4jdq0 >}}

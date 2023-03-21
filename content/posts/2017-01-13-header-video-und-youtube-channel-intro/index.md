@@ -18,7 +18,7 @@ tags:
   - Youtube
 series: []
 ---
-Ich habe gestern Abend einer <a href="https://www.youtube.com/watch?v=jpQMXJlK7TQ" target="_blank">erste Version meines YouTube Channel Intros</a>&nbsp;zusammengestellt und hochgeladen:
+Ich habe gestern Abend einer [erste Version meines YouTube Channel Intros](https://www.youtube.com/watch?v=jpQMXJlK7TQ) zusammengestellt und hochgeladen:
 
 {{< youtube jpQMXJlK7TQ >}}
 

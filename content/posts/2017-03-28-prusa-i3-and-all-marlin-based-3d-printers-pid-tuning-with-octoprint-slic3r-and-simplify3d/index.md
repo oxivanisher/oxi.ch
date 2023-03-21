@@ -23,12 +23,12 @@ series: []
 ---
 This content is available as a German video and English blog post.
 
-Why do you need to tune the <a href="https://en.wikipedia.org/wiki/PID_controller" target="_blank">PID</a> loop?
+Why do you need to tune the [PID](https://en.wikipedia.org/wiki/PID_controller) loop?
 One possible reason can be, if you changed the hotend or parts of it.
 
-Another would be, that you did the Voltage &#8220;hack&#8221; as described by Thomas Sanladerer to get the hotend and heated bed heat faster. This &#8220;hack&#8221; is not supported and even highly discouraged by Prusaresearch, since it addressed a long gone issues! YOU LOOSE YOUR WARRANTY if you do that and Joseph will get angry at you. And now read this paragraph again before fiddling around with electronics! But I had to mention it, because it was the reason I did this PID tuning blog and video in the first place.<!--more-->
+Another would be, that you did the Voltage "hack" as described by Thomas Sanladerer to get the hotend and heated bed heat faster. This "hack" is not supported and even highly discouraged by Prusaresearch, since it addressed a long gone issues! YOU LOOSE YOUR WARRANTY if you do that and Joseph will get angry at you. And now read this paragraph again before fiddling around with electronics! But I had to mention it, because it was the reason I did this PID tuning blog and video in the first place.
 
-The Prusa 3D printers firmware is based on <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">Marlin</a>, a open source firmware for <a href="http://reprap.org/" target="_blank">RepRap 3D printers</a> based on the Arduino platform. If you do not have a preconfigured 3d printer running on Marlin like a Prusa, you should do this in any case to get the most stable temperature.
+The Prusa 3D printers firmware is based on [Marlin](https://github.com/MarlinFirmware/Marlin), a open source firmware for [RepRap 3D printers](http://reprap.org/) based on the Arduino platform. If you do not have a preconfigured 3d printer running on Marlin like a Prusa, you should do this in any case to get the most stable temperature.
 
 So, why do we even need a PID controller and what does it do?
 PID loops are used in a variety of applications all over the industry and also in many other household or even hobby devices like my quadcopters for example. The three letters stand for:
@@ -46,7 +46,7 @@ So what is required to optimize the heating:
 A Prusa i3 or any other Marlin based 3D printer and a method to send it commands over a serial console.
 My second printer, the Kossel XL, a china kit, is also a RepRap derivate which runs with Marlin and all that applies for this one too. In fact a lot of 3D printers used today are derived from the RepRap Project.
 
-<a href="http://octoprint.org/" target="_blank">Octoprint</a> is a web interface for 3D printers which can easily be used on a Raspberry Pi, which makes controlling and monitoring of your 3D printer very convenient. I can highly recommend it, especially if your printer is for example in your basement like in my case.
+[Octoprint](http://octoprint.org/) is a web interface for 3D printers which can easily be used on a Raspberry Pi, which makes controlling and monitoring of your 3D printer very convenient. I can highly recommend it, especially if your printer is for example in your basement like in my case.
 
 The Prusa version of Marlin does not support saving to the EEPROM memory within the printer because it seems to be buggy in the forked version of Marlin. Because of this we either have to apply the new PID values to the configuration and compile the firmware new, which is pretty complicated, or we have to apply the changed PID values after each start of the printer or even before each print in that matter.
 
@@ -56,7 +56,7 @@ This can either be done with Octoprint or in your slicer. I prefer Octoprint, si
 Now, this is how the temperature curve looked before the PID tuning was done on my Prusa printer. As you can see, the temperature of the hotend fluctuated quiet a lot within a 5 °C range, this can be quiet important for your print quality depending on the material.
 
 ![Initiate tune](img/initiate-tune.png)
-The PID tuning process is automated within the Marlin firmware. All you have to do, is to initiate it in some kind of Serial console where you can send G-Code directly to your printer. I will be again using Octoprint for this, but you can also use Pronterface or <a href="https://www.simplify3d.com/" target="_blank">Simplify3D</a>.
+The PID tuning process is automated within the Marlin firmware. All you have to do, is to initiate it in some kind of Serial console where you can send G-Code directly to your printer. I will be again using Octoprint for this, but you can also use Pronterface or [Simplify3D](https://www.simplify3d.com/).
 
 > Once you have a terminal, you initiate the process by executing the M303 command, which takes three options. The first is which heating element should be tuned and can be omitted if you just want to tune your first hotend. For the sake of completeness, I will add the option anyway. E0 is the first hotend, E1 the second and so on where E-1 is the heated bed. The second option is the target temperature. You should choose the mostly used average of your printing temperature. Since I print a lot of PLA and PET, i will use 230°C. The last one is the number of loops it does to perfect the values. In my case I used 10 loops, which leads to the following command:
 >
@@ -86,30 +86,30 @@ If you do not use the Prusa Marlin version, you can try to store your setting in
 As long as you do not flash a new firmware, these settings will be loaded on every start of the printer and you do not have to do anything further.
 
 ![Set g-code octoprint](img/set-g-code-octoprint.png)
-This is how you configure Octoprint to use your new settings. You open the Octoprint settings and go to GCODE scripts. You now can enter the g-code in &#8220;before print job starts&#8221; and/or if you like in &#8220;after connection to printer is established&#8221;. I configured it in both fields so that I can be sure it is applied even if I&nbsp;play around in the terminal or something like that.
+This is how you configure Octoprint to use your new settings. You open the Octoprint settings and go to GCODE scripts. You now can enter the g-code in "before print job starts" and/or if you like in "after connection to printer is established". I configured it in both fields so that I can be sure it is applied even if I play around in the terminal or something like that.
 
 ![Set g-code slic3r](img/set-g-code-slic3r.png)
-To save it in <a href="http://slic3r.org/" target="_blank">slic3r</a>, you will have to edit all your printer profiles in &#8220;Printer Settings&#8221; under &#8220;Custom G-Code&#8221; in &#8220;Start G-Code&#8221;. Remember to save every profile before you configure the next one.
+To save it in [slic3r](http://slic3r.org/), you will have to edit all your printer profiles in "Printer Settings" under "Custom G-Code" in "Start G-Code". Remember to save every profile before you configure the next one.
 
 ![Set g-code simplify3d](img/set-g-code-simplify3d.png)
-To configure the commercial slicer Simplify3D, you have to configure your process in &#8220;Scripts&#8221; under &#8220;Starting Script&#8221;. Please remember to check this setting if you change printer profiles.
+To configure the commercial slicer Simplify3D, you have to configure your process in "Scripts" under "Starting Script". Please remember to check this setting if you change printer profiles.
 
 ![After tuning](img/after-tuning.png)
 And this is how it looks after the tuning. The print quality will surely benefit if the temperature is stable!
 
 Used terminal commands:
-  * Start PID tuning: M303 E0 S230 C10
-  * Store/use new Values: M301 P21.73 I2.19 D53.85
-  * Save settings to EEPROM: M500
+* Start PID tuning: M303 E0 S230 C10
+* Store/use new Values: M301 P21.73 I2.19 D53.85
+* Save settings to EEPROM: M500
 
 Slicer Links:
-  * <a href="http://octoprint.org/" target="_blank">http://octoprint.org/</a>
-  * <a href="https://www.simplify3d.com/" target="_blank">https://www.simplify3d.com/</a>
-  * <a href="http://slic3r.org/" target="_blank">http://slic3r.org/</a>
+* [http://octoprint.org/](http://octoprint.org/)
+* [https://www.simplify3d.com/](https://www.simplify3d.com/)
+* [http://slic3r.org/](http://slic3r.org/)
 
-The referenced Video from Thomas (please read the disclaimer at the top!) is linked in <a href="http://shop.prusa3d.com/forum/original-prusa-i3-mk2-f23/tom-sanladerer-s-voltage-mod-is-it-safe--t2483.html" target="_blank">this thread</a>:
+The referenced Video from Thomas (please read the disclaimer at the top!) is linked in [this thread](http://shop.prusa3d.com/forum/original-prusa-i3-mk2-f23/tom-sanladerer-s-voltage-mod-is-it-safe--t2483.html):
 
 Informative Links:
-  * <a href="https://github.com/MarlinFirmware/Marlin" target="_blank">https://github.com/MarlinFirmware/Marlin</a>
-  * <a href="https://en.wikipedia.org/wiki/PID_controller" target="_blank">https://en.wikipedia.org/wiki/PID_controller</a>
-  * <a href="http://reprap.org/" target="_blank">http://reprap.org/</a>
+* [https://github.com/MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+* [https://en.wikipedia.org/wiki/PID\_controller](https://en.wikipedia.org/wiki/PID_controller)
+* [http://reprap.org/](http://reprap.org/)

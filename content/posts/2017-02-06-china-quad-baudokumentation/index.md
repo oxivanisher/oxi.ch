@@ -31,7 +31,7 @@ Video software used: Blender VSE
 
 Marvin on twitter: https://twitter.com/nytocaCH
 
-* Nach 72 Tagend sind die ESCs doch noch gekommen. Da der refound schon passiert ist sind diese nun &#8220;gratis&#8221;.
+* Nach 72 Tagend sind die ESCs doch noch gekommen. Da der refound schon passiert ist sind diese nun "gratis".
 
 * Link zu Plasti Dip (Electrical Tape): https://www.swiss-composite.ch/produkte-sonderposten/
 
@@ -43,5 +43,5 @@ Thingiverse Links:
 
 The music used is licensed under Creative Commons:
 https://creativecommons.org/licenses/by/3.0/
-* ElectroSwing &#8211; Baby (Outro)
-* Render &#8211; Prism (Background)
+* ElectroSwing - Baby (Outro)
+* Render - Prism (Background)

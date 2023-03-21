@@ -26,5 +26,5 @@ Im folgenden Video sieht man, wie ich meinen selber gebauten Batterie-Entlader b
 
 {{< youtube hBNP7XQvnCo >}}
 
-STL download: <a href="https://oxi.ch/3dobjects" target="_blank">https://oxi.ch/3dobjects</a><br />
+STL download: [https://oxi.ch/3dobjects](https://oxi.ch/3dobjects)
 Kondensatoren Typ: 1000UF 25V LOW ESR Radial Electrolytic Capacitor

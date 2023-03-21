@@ -23,23 +23,23 @@ I thought, I share the YouTube channels which I regularly watch for the themes o
 
 ### Quadcopter / FPV
 
-* <a href="https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ" target="_blank">Joshua Bardwell</a>
-* <a href="https://www.youtube.com/channel/UCpHN-7J2TaPEEMlfqWg5Cmg" target="_blank">NJ Tech</a>
-* <a href="https://www.youtube.com/channel/UCuibbKUX0wT5yie0_EM0Smw" target="_blank">FinalGlideAus</a>
-* <a href="https://www.youtube.com/channel/UCemG3VoNCmjP8ucHR2YY7hw" target="_blank">Rotor Riot</a>
-* <a href="https://www.youtube.com/channel/UCQEqPV0AwJ6mQYLmSO0rcNA" target="_blank">Mr Steele</a>
-* <a href="https://www.youtube.com/channel/UCahqHsTaADV8MMmj2D5i1Vw" target="_blank">RC Model Reviews</a>
+* [Joshua Bardwell](https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ)
+* [NJ Tech](https://www.youtube.com/channel/UCpHN-7J2TaPEEMlfqWg5Cmg)
+* [FinalGlideAus](https://www.youtube.com/channel/UCuibbKUX0wT5yie0_EM0Smw)
+* [Rotor Riot](https://www.youtube.com/channel/UCemG3VoNCmjP8ucHR2YY7hw)
+* [Mr Steele](https://www.youtube.com/channel/UCQEqPV0AwJ6mQYLmSO0rcNA)
+* [RC Model Reviews](https://www.youtube.com/channel/UCahqHsTaADV8MMmj2D5i1Vw)
 
 ### 3D Printing
 
-* <a href="https://www.youtube.com/channel/UCb8Rde3uRL1ohROUVg46h1A" target="_blank">Thomas Sanladerer</a>
-* <a href="https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg" target="_blank">Maker&#8217;s Muse</a>
+* [Thomas Sanladerer](https://www.youtube.com/channel/UCb8Rde3uRL1ohROUVg46h1A)
+* [Maker's Muse](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg)
 
 ### Tinkering in general
 
-* <a href="https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA" target="_blank">AvE</a>
-* <a href="https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ" target="_blank">EEVBlog</a>
-* <a href="https://www.youtube.com/channel/UCp68_FLety0O-n9QU6phsgw" target="_blank">colinfurze</a>
-* <a href="https://www.youtube.com/channel/UCUbDcUPed50Y_7KmfCXKohA" target="_blank">James Bruton</a>
-* <a href="https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw" target="_blank">DIY Perks</a>
-* <a href="https://www.youtube.com/channel/UChturLXwYxwTOf_5krs0qvA" target="_blank">The Ben Heck Show</a>
+* [AvE](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA)
+* [EEVBlog](https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ)
+* [colinfurze](https://www.youtube.com/channel/UCp68_FLety0O-n9QU6phsgw)
+* [James Bruton](https://www.youtube.com/channel/UCUbDcUPed50Y_7KmfCXKohA)
+* [DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw)
+* [The Ben Heck Show](https://www.youtube.com/channel/UChturLXwYxwTOf_5krs0qvA)

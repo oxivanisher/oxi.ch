@@ -25,4 +25,4 @@ Der ganze Code der Website ist in diesem [Github Repository](https://github.com/
 
 Ich habe alle bestehenden Posts der letzten sieben Jahre aus Wordpress exportiert und zu Hugo konvertiert. Es gibt keine Garantie, dass alle Links noch funktioniert. 😊
 
-Dies war der erste [Blogbeitrag im alten Wordpress](/posts/2016-01-25-move-to-wordpress/) vor sieben Jahren über die Migration von Phrozn zu Wordpress. How the Turntables...
+Dies war der erste [Blogbeitrag im alten Wordpress](/posts/2016-01-25-move-to-wordpress/) vor sieben Jahren über die Migration von Phrozn zu Wordpress. How the Turntables…

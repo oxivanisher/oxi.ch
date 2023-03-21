@@ -34,7 +34,7 @@ Da dieses Kill Team aus 12 Figuren besteht, war auch hier die Auswahl der Bilder
 
 {{< image-gallery gallery_dir="2" >}}
 
-Es folgen alle 12 Figuren mit &#8220;Namen&#8221;
+Es folgen alle 12 Figuren mit "Namen"
 
 {{< image-gallery gallery_dir="3" >}}
 

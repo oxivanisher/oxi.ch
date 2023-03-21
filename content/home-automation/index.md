@@ -17,8 +17,8 @@ tags:
 series:
   - Tinkering
 ---
-The Idea behind JamesII Butler is to implement smarthome features in combination with multimedia, networking and interactive applications to your existing infrastructure. It consists of distributed python nodes which connect via a RabbitMQ server to talk to each other. There is one core node which hosts the configuration and some basic features. The system is also very handy in combination with RaspberryPi&#8217;s (<http://www.raspberrypi.org/>).
+The Idea behind JamesII Butler is to implement smarthome features in combination with multimedia, networking and interactive applications to your existing infrastructure. It consists of distributed python nodes which connect via a RabbitMQ server to talk to each other. There is one core node which hosts the configuration and some basic features. The system is also very handy in combination with RaspberryPi's (<http://www.raspberrypi.org/>).
 
-To find out more, go to&nbsp;<a href="https://github.com/oxivanisher/JamesII" target="_blank" rel="noopener">github.com/oxivanisher/JamesII</a>
+To find out more, go to [github.com/oxivanisher/JamesII](https://github.com/oxivanisher/JamesII).
 
-Also I am combining and extending JamesII with lots of <a href="https://nodered.org" target="_blank" rel="noopener">Node-RED</a> nodes and flows. From digitizing my door bell, monitoring the soil moisture of my plants to full room intelligent lighting based on environment variables. I use mostly ESPs for those IOT projects and all source code is located on <a href="https://github.com/oxivanisher/" target="_blank" rel="noopener">my GitHub</a>.
+Also I am combining and extending JamesII with lots of [Node-RED](https://nodered.org) nodes and flows. From digitizing my door bell, monitoring the soil moisture of my plants to full room intelligent lighting based on environment variables. I use mostly ESPs for those IOT projects and all source code is located on [my GitHub](https://github.com/oxivanisher/).

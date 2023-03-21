@@ -31,6 +31,6 @@ Als ich den Maiden-Flug mit meinem neuen Lumenier QAV-Skitzo Dark Matter machen 
 
 {{< youtube g1fs9qPKTOk >}}
 
-Beim nächsten Video waren die Motoren soft-mounted und die Yaw-Vibrations waren schon viel schwächer. Glücklicherweise konnte mir CopyKill vier FC soft-mount Schrauben geben und somit konnte ich diese für das&nbsp;nächsten Video montieren. Die Yaw-Vibrations sind nun komplett verschwunden. 😀
+Beim nächsten Video waren die Motoren soft-mounted und die Yaw-Vibrations waren schon viel schwächer. Glücklicherweise konnte mir CopyKill vier FC soft-mount Schrauben geben und somit konnte ich diese für das nächsten Video montieren. Die Yaw-Vibrations sind nun komplett verschwunden. 😀
 
 {{< youtube xVYJIcE3_uU >}}

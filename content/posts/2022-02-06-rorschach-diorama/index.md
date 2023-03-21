@@ -22,7 +22,7 @@ series: []
 ---
 {{< figure src="img/DSC00849_optimized.jpg" alt="Rorschach von Watchmen" >}}
 
-Rorschach ist ein Anti-Held aus dem Watchmen Universum von DC Comics. Nach langer Zeit habe ich wieder einmal den Film aus dem Jahr 2009 (diesmal in der 3.5 Stunden-Fassung 😍) geschaut habe, hatte ich Lust meinen Lieblings-Charakter &#8220;Rorschach&#8221; zu bemalen. Die verwendete 3D-Datei ist gratis bei <a rel="noreferrer noopener" href="https://www.myminifactory.com/object/3d-print-rorschach-from-watchmen-support-free-108809" target="_blank">MyMinifactory</a> zu finden.
+Rorschach ist ein Anti-Held aus dem Watchmen Universum von DC Comics. Nach langer Zeit habe ich wieder einmal den Film aus dem Jahr 2009 (diesmal in der 3.5 Stunden-Fassung 😍) geschaut habe, hatte ich Lust meinen Lieblings-Charakter “Rorschach” zu bemalen. Die verwendete 3D-Datei ist gratis bei [MyMinifactory](https://www.myminifactory.com/object/3d-print-rorschach-from-watchmen-support-free-108809) zu finden.
 
 Die Mal-arbeiten dauerten ca. 10 Stunden.
 

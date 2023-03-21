@@ -23,4 +23,4 @@ Im aktuellsten Video zeige ich Dir wie du f√ºr wenig Geld Temperatur-Sensoren f√
 
 {{< youtube _WcDzvOMaJc >}}
 
-Das 3D-Objekt kann bei <a href="https://www.thingiverse.com/thing:2766449" target="_blank" rel="noopener">Thingiverse heruntergeladen</a> und die Sensoren bei <a href="http://bit.ly/2DCtVtO" target="_blank" rel="noopener">Banggood gekauft</a> werden.
+Das 3D-Objekt kann bei [Thingiverse heruntergeladen](https://www.thingiverse.com/thing:2766449) und die Sensoren bei [Banggood gekauft](http://bit.ly/2DCtVtO) werden.

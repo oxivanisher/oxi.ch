@@ -20,5 +20,5 @@ tags:
   - Youtube
 series: []
 ---
-Ich habe ein Video vom <a href="https://www.youtube.com/watch?v=DrNp3vxnrBo" target="_blank" rel="noopener">FPV Fun Race training in Wynigen mit FPVBern</a> hochgeladen:
+Ich habe ein Video vom [FPV Fun Race training in Wynigen mit FPVBern](https://www.youtube.com/watch?v=DrNp3vxnrBo) hochgeladen:
 {{< youtube DrNp3vxnrBo >}}
