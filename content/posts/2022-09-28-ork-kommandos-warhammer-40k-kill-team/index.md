@@ -20,6 +20,8 @@ tags:
   - Tinkering
 series: []
 ---
+![Ork Kommandos](img/DSC01152.JPG)
+
 Aus der Kill Team Box Octarius von Games Workshop stammen die Ork Kommandos. Die reinen Mal-Arbeiten dauerten ca. 20 Stunden. Am Anfang ging es dank den Speed-Paints relativ schnell, aber all die Details der 12 Modelle dann hervor zu heben dauerte schlussendlich viel länger als erwartet.
 
 Die Bases gingen ebenfalls überraschend lange. An diesen habe ich Total ca. vier Stunden gearbeitet. Teilweise war es aufwändiger als ich gedacht hatte, aber manchmal hatte ich auch einfach dumme Fehler gemacht, nach welchen ich erneut Malen musste. 🤷‍♂️
