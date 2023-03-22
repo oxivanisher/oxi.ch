@@ -3,6 +3,7 @@ title: Spiderman - Diorama
 author: oxi
 subtitle: "With great power comes great responsibility."
 header_img: "img/minipainting-header.jpg"
+feature_img: "img/DSC00828_optimized.jpg"
 comment: false
 toc: false
 draft: false
@@ -19,8 +20,6 @@ tags:
   - Tinkering
 series: []
 ---
-{{< figure src="img/DSC00828_optimized.jpg" alt="Spiderman" >}}
-
 Ich verwende hier das <a rel="noreferrer noopener" href="https://www.gambody.com/3d-models/spider-man-wall-crawler" target="_blank">Spider-Man Wall Crawler 3D Printing Figurine</a> Modell vom Creator <a rel="noreferrer noopener" href="https://www.gambody.com/user/view/id/3830" target="_blank">Rodman</a>. Der druck dauerte ca. zehn, alle Mal-Arbeiten zusätzlich ca. zwanzig Stunden.
 
 {{< image-gallery gallery_dir="1" >}}

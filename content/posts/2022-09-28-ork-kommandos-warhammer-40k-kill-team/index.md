@@ -2,6 +2,7 @@
 title: Ork Kommandos
 subtitle: Warhammer 40K Kill Team
 header_img: "img/2022-09-28-ork-kommandos-warhammer-40k-kill-team.jpg"
+feature_img: "img/DSC01152.JPG"
 comment: false
 toc: false
 draft: false
@@ -20,8 +21,6 @@ tags:
   - Tinkering
 series: []
 ---
-{{< figure src="img/DSC01152.JPG" alt="Ork Kommandos" >}}
-
 Aus der Kill Team Box Octarius von Games Workshop stammen die Ork Kommandos. Die reinen Mal-Arbeiten dauerten ca. 20 Stunden. Am Anfang ging es dank den Speed-Paints relativ schnell, aber all die Details der 12 Modelle dann hervor zu heben dauerte schlussendlich viel länger als erwartet.
 
 Die Bases gingen ebenfalls überraschend lange. An diesen habe ich Total ca. vier Stunden gearbeitet. Teilweise war es aufwändiger als ich gedacht hatte, aber manchmal hatte ich auch einfach dumme Fehler gemacht, nach welchen ich erneut Malen musste. 🤷‍♂️

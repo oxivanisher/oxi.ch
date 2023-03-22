@@ -3,6 +3,7 @@ title: Elucidian Starstriders
 author: oxi
 subtitle: "Warhammer 40K Kill Team"
 header_img: "img/minipainting-header.jpg"
+feature_img: "img/DSC01139.jpg"
 comment: false
 toc: false
 draft: false
@@ -20,8 +21,6 @@ tags:
   - Tinkering
 series: []
 ---
-{{< figure src="img/DSC01139.jpg" alt="Ecludian Starstriders" >}}
-
 Diese Warhammer Kill Team Figuren mussten mehr als 1.5 Jahre darauf warten, um nach dem Grundieren etwas Farbe zu erhalten. Bei einem Team mit zehn Figuren ist es schwierig dies mit Fotos so festzuhalten, dass es verständlich ist. Ich habe mein bestes gegeben um aus den 314 Bildern sinnvolle auszuwählen. 😂
 Die gesamten Mal-Arbeiten dauerten ca. 20 Stunden.
 

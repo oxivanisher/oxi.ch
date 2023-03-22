@@ -3,6 +3,7 @@ title: The Witcher - Diorama
 author: oxi
 subtitle: "You don't need mutations to strip men of their humanity."
 header_img: "img/minipainting-header.jpg"
+feature_img: "img/DSC00854_optimized_2.jpg"
 comment: false
 toc: false
 draft: false
@@ -19,8 +20,6 @@ tags:
   - Tinkering
 series: []
 ---
-{{< figure src="img/DSC00854_optimized_2.jpg" alt="Gerald of Rivia - The Witcher" >}}
-
 Für das Release der zweiten Staffel von The Witcher bei Netflix hatte ich vor, Parallel zum schauen der Serie Gerald von Rivia zu bemalen. Leider war die 2. Staffel etwa 2 Stunden zu kurz dafür. 😅 Somit dauerten die Mal-arbeiten ca. 10 Stunden. Und ja, das ist schon ein paar Monate her.
 
 {{< image-gallery gallery_dir="1" >}}

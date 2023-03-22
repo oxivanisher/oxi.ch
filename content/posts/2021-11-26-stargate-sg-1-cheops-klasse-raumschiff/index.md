@@ -3,6 +3,7 @@ title: Stargate SG-1 Cheops-Klasse Raumschiff - Diorama
 author: oxi
 subtitle: "Indeed."
 header_img: "img/minipainting-header.jpg"
+feature_img: "img/20211119_172436.jpg"
 comment: false
 toc: true
 draft: false
@@ -21,8 +22,6 @@ tags:
   - Tinkering
 series: []
 ---
-{{< figure src="img/20211119_172436.jpg" alt="Cheops" >}}
-
 Als Fan der Stargate-Reihe hat mich das <a rel="noreferrer noopener" href="https://www.myminifactory.com/object/3d-print-spaceship-pyramid-fdm-resin-printer-needed-134069" data-type="URL" data-id="https://www.myminifactory.com/object/3d-print-spaceship-pyramid-fdm-resin-printer-needed-134069" target="_blank">Modell von Fr3D eines Raumschiffes</a> aus dem Film und der Serie sofort angesprochen. Meine Idee für die Umsetzung war kurz zusammen gefasst das folgende:
 
 * Die "grossen" Teile werden mit FDM gedruckt

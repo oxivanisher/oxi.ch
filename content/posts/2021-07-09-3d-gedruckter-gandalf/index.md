@@ -3,6 +3,7 @@ title: 3D Gedruckter Gandalf - Diorama
 author: oxi
 subtitle: "Fly, you fools!"
 header_img: "img/minipainting-header.jpg"
+feature_img: "img/1_resized-edited.jpg"
 comment: false
 toc: false
 draft: false
@@ -20,8 +21,6 @@ tags:
   - Tinkering
 series: []
 ---
-{{< figure src="img/1_resized-edited.jpg" alt="Gandalf 3D Printed" >}}
-
 Für ein Geburtstagsgeschenk habe ich den <a rel="noreferrer noopener" href="https://www.gambody.com/3d-models/gandalf-the-gray" target="_blank">Gandalf von Gamebody</a> auf dem Elegoo Mars Pro gedruckt.<figure class="wp-block-image size-large is-style-default">
 
 Zudem habe ich seinen Stab mit einem Micro-LED versehen und mit sehr viel Geduld die Kabel verlegt sowie eine Öffnung in die Base gemacht. Damit diese Veränderungen nicht auffallen, habe ich diese mit Milliput "Weggespachtelt".

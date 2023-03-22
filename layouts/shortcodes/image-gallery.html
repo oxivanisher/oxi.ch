@@ -1,8 +1,8 @@
 {{/* a LOT of code is copied from
 https://github.com/mfg92/hugo-shortcode-gallery/blob/master/layouts/shortcodes/gallery.html */}}
 {{ $currentPage := . }}
-{{ $thumbnailResizeOptions := .Get "thumbnailResizeOptions" | default (.Site.Params.galleryThumbnailResizeOptions |
-default "300x150 q85 Lanczos") }}
+{{ $thumbnailResizeOptions := .Site.Params.galleryThumbnailResizeOptions | default "300x150 q85 Lanczos" }}
+
 {{ $galleryShowFilenames := .Get "galleryShowFilenames" | default (.Site.Params.galleryShowFilenames | default true)}}
 
 {{ $imageResizeOptions := .Get "imageResizeOptions" | default .Site.Params.galleryImageResizeOptions }}

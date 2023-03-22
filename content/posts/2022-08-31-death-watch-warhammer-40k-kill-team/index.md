@@ -3,6 +3,7 @@ title: Death Watch
 author: oxi
 subtitle: "Warhammer 40K Kill Team"
 header_img: "img/minipainting-header.jpg"
+feature_img: "img/DSC01147.jpg"
 comment: false
 toc: false
 draft: false
@@ -20,8 +21,6 @@ tags:
   - Tinkering
 series: []
 ---
-{{< figure src="img/DSC01147.jpg" alt="Deatch Watch" >}}
-
 Dieses Kill Team ist in relativ kurzer Zeit entstanden. Dies auch wieder dank den Speed-Paints von The Army Painter.
 Der Zusammenbau dauerte ca. eine, das Bemalen ca. sieben Stunden (ohne die Bases).
 

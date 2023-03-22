@@ -3,6 +3,7 @@ title: Thrall - Bust
 author: oxi
 subtitle: "For the Horde!"
 header_img: "img/minipainting-header.jpg"
+feature_img: "img/DSC01126.jpg"
 comment: false
 toc: false
 draft: false
@@ -19,8 +20,6 @@ tags:
   - Tinkering
 series: []
 ---
-{{< figure src="img/DSC01126.jpg" alt="Thrall" >}}
-
 Erneut habe ich einen schon älteren 3D-Druck endlich bemalt: Thrall, der Warchief der Herzen aus dem Warcraft-Universum. Ich hatte Thrall parallel zu andern Projekten bemalt und immer wenn ich eine passende Farbe "übrig" hatte, habe ich diese verwendet. Somit ist der Aufwand schwer abzuschätzen, aber da es ein klares Ziel war mit möglichst wenig Aufwand zum Ziel zu kommen, bin ich mit ca. einer Stunde zufrieden.
 
 {{< image-gallery gallery_dir="1" >}}
