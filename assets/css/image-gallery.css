@@ -15,13 +15,13 @@
   height: 100%;
 }
 
-.image-gallery a {
+.image-gallery a, .featured-image a {
   display: inline-block;
   overflow: hidden;
   margin: 4px 6px;
   box-shadow: 0 0 4px -1px #000;
 }
 
-.image-gallery img {
+.image-gallery img, .featured-image img {
   margin: 0px;
 }

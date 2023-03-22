@@ -5,13 +5,8 @@
   text-shadow: 0px 0px 10px black;
 }
 
-/* page subtitle */
-.intro-header .subheading {
-  text-shadow: 0px 0px 10px black;
-}
-
-/* subtitle */
-.intro-header .meta {
+/* page subtitle and subtitle */
+.intro-header .subheading, .intro-header .meta {
   text-shadow: 0px 0px 10px black;
 }
 
@@ -20,6 +15,7 @@
   background-blend-mode: darken;
 }
 
+/* this should go into the theme ... */
 .post-content-preview-thumbnail {
   float: right;
   margin: 4px 6px;
