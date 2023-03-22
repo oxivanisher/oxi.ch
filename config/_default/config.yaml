@@ -9,12 +9,12 @@ theme:
 themesDir: "themes"
 copyright: "oXiVanisher"
 paginat: 3
-languageCode: "de"
+languageCode: "de-DE"
 defaultContentLanguage: "de"
 
 timeout: 1800s
 
-hasCJKLanguage: true
+hasCJKLanguage: false
 enableInLineShortcodes: true
 enableEmoji: true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
