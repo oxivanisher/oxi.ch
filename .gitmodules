@@ -1,6 +1,6 @@
-[submodule "themes/puppet"]
-	path = themes/puppet
-	url = https://github.com/roninro/hugo-theme-puppet.git
 [submodule "themes/hugo-redirect"]
 	path = themes/hugo-redirect
 	url = https://github.com/gcc42/hugo-redirect.git
+[submodule "themes/puppet-oxi"]
+	path = themes/puppet-oxi
+	url = git@github.com:oxivanisher/hugo-theme-puppet.git

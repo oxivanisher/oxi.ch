@@ -3,7 +3,7 @@
 baseURL: https://oxi.ch/
 title: oxi.ch
 theme:
-  - puppet
+  - puppet-oxi
   - hugo-redirect
 
 themesDir: "themes"
