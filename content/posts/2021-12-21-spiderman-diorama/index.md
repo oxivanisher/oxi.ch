@@ -20,7 +20,7 @@ tags:
   - Tinkering
 series: []
 ---
-Ich verwende hier das <a rel="noreferrer noopener" href="https://www.gambody.com/3d-models/spider-man-wall-crawler" target="_blank">Spider-Man Wall Crawler 3D Printing Figurine</a> Modell vom Creator <a rel="noreferrer noopener" href="https://www.gambody.com/user/view/id/3830" target="_blank">Rodman</a>. Der druck dauerte ca. zehn, alle Mal-Arbeiten zusätzlich ca. zwanzig Stunden.
+Ich verwende hier das [Spider-Man Wall Crawler 3D Printing Figurine](https://www.gambody.com/3d-models/spider-man-wall-crawler) Modell vom Creator [Rodman](https://www.gambody.com/user/view/id/3830). Der druck dauerte ca. zehn, alle Mal-Arbeiten zusätzlich ca. zwanzig Stunden.
 
 {{< image-gallery gallery_dir="1" >}}
 

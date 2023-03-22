@@ -22,7 +22,7 @@ tags:
   - Tinkering
 series: []
 ---
-Als Fan der Stargate-Reihe hat mich das <a rel="noreferrer noopener" href="https://www.myminifactory.com/object/3d-print-spaceship-pyramid-fdm-resin-printer-needed-134069" data-type="URL" data-id="https://www.myminifactory.com/object/3d-print-spaceship-pyramid-fdm-resin-printer-needed-134069" target="_blank">Modell von Fr3D eines Raumschiffes</a> aus dem Film und der Serie sofort angesprochen. Meine Idee für die Umsetzung war kurz zusammen gefasst das folgende:
+Als Fan der Stargate-Reihe hat mich das [Modell von Fr3D eines Raumschiffes](https://www.myminifactory.com/object/3d-print-spaceship-pyramid-fdm-resin-printer-needed-134069) aus dem Film und der Serie sofort angesprochen. Meine Idee für die Umsetzung war kurz zusammen gefasst das folgende:
 
 * Die "grossen" Teile werden mit FDM gedruckt
 * Die Detailreichen Panels werden mit SLA gedruckt
@@ -31,13 +31,13 @@ Als Fan der Stargate-Reihe hat mich das <a rel="noreferrer noopener" href="https
 
 Bei den folgenden Bildern werden Spezialbegriffe verwendet. Hier eine kurze Erklärung einiger:
 
-* FDM: <a rel="noreferrer noopener" href="https://de.wikipedia.org/wiki/Fused_Deposition_Modeling" data-type="URL" data-id="https://de.wikipedia.org/wiki/Fused_Deposition_Modeling" target="_blank">Fused Deposition Modeling</a> - 3D-Druck Technologie welche Rollen von Material schmilzt und quasi aufeinanderstapelnd die Teile druckt.
-* (M)SLA: <a rel="noreferrer noopener" href="https://de.wikipedia.org/wiki/Stereolithografie" data-type="URL" data-id="https://de.wikipedia.org/wiki/Stereolithografie" target="_blank">Stereolithografie</a> - 3D-Druck Technologie welche mit UV-Licht flüssiges Harz zu den Objekten härtet.
-* Dry-Brush (<a rel="noreferrer noopener" href="https://de.wikipedia.org/wiki/Trockenb%C3%BCrsten" data-type="URL" data-id="https://de.wikipedia.org/wiki/Trockenb%C3%BCrsten" target="_blank">Trockenbürsten</a>): Eine Mal-Technik bei welcher nur wenig Farbe am Pinsel ist und durch feines auftragen die Struktur hervorhebt.
-* <a rel="noreferrer noopener" href="https://de.wikipedia.org/wiki/Washing" data-type="URL" data-id="https://de.wikipedia.org/wiki/Washing" target="_blank">Washing</a>: Das Modell wird mit stark verdünnter Farbe grosszügig bedeckt. Durch den <a rel="noreferrer noopener" href="https://de.wikipedia.org/wiki/Kapillarität" data-type="URL" data-id="https://de.wikipedia.org/wiki/Kapillarität" target="_blank">kapillaren Effekt</a>, sammelt sich die Farbe in Vertiefungen und Winkel, welche so hervorgehoben werden.
-* <a rel="noreferrer noopener" href="https://de.wikipedia.org/wiki/2-Propanol" data-type="URL" data-id="https://de.wikipedia.org/wiki/2-Propanol" target="_blank">IPA</a>: Isopropylalkohol oder Isopropanol ist ein sehr oft verwendeter Alkohol der zur Reinigung verwendet wird.
-* <a rel="noreferrer noopener" href="https://de.wikipedia.org/wiki/Polyurethane" data-type="URL" data-id="https://de.wikipedia.org/wiki/Polyurethane" target="_blank">TPU</a>: Gummiges Material welches mit der FDM Technologie gedruckt werden kann. Wird oft bei FPV-Drohnen verwendet.
-* <a rel="noreferrer noopener" href="https://de.wikipedia.org/wiki/Polyvinylalkohol" data-type="URL" data-id="https://de.wikipedia.org/wiki/Polyvinylalkohol" target="_blank">PVA</a>: Sehr weit verbreitete art von Leim. Verwandt mit/oder Alias zu Holzleim und Weissleim.
+* FDM: [Fused Deposition Modeling](https://de.wikipedia.org/wiki/Fused_Deposition_Modeling) - 3D-Druck Technologie welche Rollen von Material schmilzt und quasi aufeinanderstapelnd die Teile druckt.
+* (M)SLA: [Stereolithografie](https://de.wikipedia.org/wiki/Stereolithografie) - 3D-Druck Technologie welche mit UV-Licht flüssiges Harz zu den Objekten härtet.
+* Dry-Brush ([Trockenbürsten](https://de.wikipedia.org/wiki/Trockenb%C3%BCrsten)): Eine Mal-Technik bei welcher nur wenig Farbe am Pinsel ist und durch feines auftragen die Struktur hervorhebt.
+* [Washing](https://de.wikipedia.org/wiki/Washing): Das Modell wird mit stark verdünnter Farbe grosszügig bedeckt. Durch den [kapillaren Effekt](https://de.wikipedia.org/wiki/Kapillarität), sammelt sich die Farbe in Vertiefungen und Winkel, welche so hervorgehoben werden.
+* [IPA](https://de.wikipedia.org/wiki/2-Propanol): Isopropylalkohol oder Isopropanol ist ein sehr oft verwendeter Alkohol der zur Reinigung verwendet wird.
+* [TPU](https://de.wikipedia.org/wiki/Polyurethane): Gummiges Material welches mit der FDM Technologie gedruckt werden kann. Wird oft bei FPV-Drohnen verwendet.
+* [PVA](https://de.wikipedia.org/wiki/Polyvinylalkohol): Sehr weit verbreitete art von Leim. Verwandt mit/oder Alias zu Holzleim und Weissleim.
 
 ## SLA Druck
 

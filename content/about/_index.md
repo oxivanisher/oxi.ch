@@ -14,7 +14,7 @@ aliases:
   - about-us
 short: true
 ---
-{{< figure src="img/me_2022_2_square.jpg" alt="Marc Urben" width="500px" >}}
+{{< figure src="img/me_2022_2_square.jpg" alt="Marc Urben" width="300px" >}}
 **Marc Urben** aka **oxi** aka **oXiVanisher**, Swizerland / Schweiz
 
 ### I like:

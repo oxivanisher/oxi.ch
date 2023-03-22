@@ -27,7 +27,7 @@ Die Bases gingen ebenfalls überraschend lange. An diesen habe ich Total ca. vie
 
 {{< image-gallery gallery_dir="1" >}}
 
-Für die Bases habe ich von <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=fihnIwq7yc0" target="_blank">diesem Video von EonsOfBattle</a> inspirieren lassen.
+Für die Bases habe ich von [diesem Video von EonsOfBattle](https://www.youtube.com/watch?v=fihnIwq7yc0) inspirieren lassen.
 
 Da dieses Kill Team aus 12 Figuren besteht, war auch hier die Auswahl der Bilder schwierig und dies ist nur eine Selektion der fast 300 Fotos.
 
@@ -37,8 +37,6 @@ Es folgen alle 12 Figuren mit "Namen"
 
 {{< image-gallery gallery_dir="3" >}}
 
-![Das komplette Team](img/DSC01152.JPG)
-![Das komplette Team](img/DSC01155.JPG)
-![Das komplette Team](img/DSC01157.JPG)
+{{< image-gallery gallery_dir="4" >}}
 
 Das Ork Kommando Kill Team wurde am 17. Juli 2022 fertiggestellt.
