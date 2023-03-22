@@ -19,3 +19,9 @@
   background: rgba(0, 0, 0, .45);
   background-blend-mode: darken;
 }
+
+.post-content-preview-thumbnail {
+  float: right;
+  margin: 4px 6px;
+  box-shadow: 0 0 4px -1px #000;
+}
