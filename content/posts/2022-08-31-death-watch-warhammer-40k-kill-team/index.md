@@ -3,7 +3,7 @@ title: Death Watch
 author: oxi
 subtitle: "Warhammer 40K Kill Team"
 header_img: "img/minipainting-header.jpg"
-feature_img: "img/DSC01147.jpg"
+feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false

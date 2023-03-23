@@ -1,8 +1,8 @@
 ---
 title: Ork Kommandos
 subtitle: Warhammer 40K Kill Team
-header_img: "img/2022-09-28-ork-kommandos-warhammer-40k-kill-team.jpg"
-feature_img: "img/DSC01152.JPG"
+header_img: "img/minipainting-header.jpg"
+feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false

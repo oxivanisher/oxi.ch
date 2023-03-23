@@ -3,7 +3,7 @@ title: Rorschach - Diorama
 author: oxi
 subtitle: "A Comedian died last night, and nobody cares. Nobody cares but me."
 header_img: "img/minipainting-header.jpg"
-feature_img: "img/DSC00849_optimized.jpg"
+feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false

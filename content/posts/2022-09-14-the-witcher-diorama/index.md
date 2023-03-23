@@ -3,7 +3,7 @@ title: The Witcher - Diorama
 author: oxi
 subtitle: "You don't need mutations to strip men of their humanity."
 header_img: "img/minipainting-header.jpg"
-feature_img: "img/DSC00854_optimized_2.jpg"
+feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false

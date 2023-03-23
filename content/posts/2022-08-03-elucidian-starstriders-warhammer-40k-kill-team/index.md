@@ -3,7 +3,7 @@ title: Elucidian Starstriders
 author: oxi
 subtitle: "Warhammer 40K Kill Team"
 header_img: "img/minipainting-header.jpg"
-feature_img: "img/DSC01139.jpg"
+feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false
