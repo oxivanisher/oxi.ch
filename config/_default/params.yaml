@@ -16,11 +16,11 @@ custom_css:
   - "css/image-gallery.css"
   - "css/oxi.css"
 
-galleryThumbnailResizeOptions: "160x160 q85 Lanczos"
+galleryThumbnailResizeOptions: "160x160 q85 CatmullRom"
 galleryImageResizeOptions: "1600x1600 q85 Lanczos"
 galleryShowFilenames: false
 
-postPrevThumbResOptions: "160x160 q85 Lanczos"
+postPrevThumbResOptions: "160x160 q85 CatmullRom"
 postThumbResOptions: "700x q85 Lanczos"
 
 sidebar:
