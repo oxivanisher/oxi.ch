@@ -16,12 +16,12 @@ custom_css:
   - "css/image-gallery.css"
   - "css/oxi.css"
 
-galleryThumbnailResizeOptions: "160x160 q85"
-galleryImageResizeOptions: "1600x1600 q85"
+galleryThumbnailResizeOptions: "160x160 q85 Lanczos"
+galleryImageResizeOptions: "1600x1600 q85 Lanczos"
 galleryShowFilenames: false
 
-postPreviewFeatureImgResizeOptions: "160x160 q85"
-postFeatureImgResizeOptions: "700x q85"
+postPrevThumbResOptions: "160x160 q85 Lanczos"
+postThumbResOptions: "700x q85 Lanczos"
 
 sidebar:
   enable: true

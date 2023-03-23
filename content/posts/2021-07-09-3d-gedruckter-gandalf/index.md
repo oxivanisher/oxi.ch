@@ -3,7 +3,6 @@ title: 3D Gedruckter Gandalf - Diorama
 author: oxi
 subtitle: "Fly, you fools!"
 header_img: "img/minipainting-header.jpg"
-feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false

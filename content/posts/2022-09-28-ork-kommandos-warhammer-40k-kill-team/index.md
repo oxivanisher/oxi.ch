@@ -2,7 +2,6 @@
 title: Ork Kommandos
 subtitle: Warhammer 40K Kill Team
 header_img: "img/minipainting-header.jpg"
-feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false

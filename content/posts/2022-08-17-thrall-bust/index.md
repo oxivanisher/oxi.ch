@@ -3,7 +3,6 @@ title: Thrall - Bust
 author: oxi
 subtitle: "For the Horde!"
 header_img: "img/minipainting-header.jpg"
-feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false

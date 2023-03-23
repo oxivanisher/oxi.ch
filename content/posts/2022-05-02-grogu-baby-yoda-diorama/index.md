@@ -3,7 +3,6 @@ title: Grogu (Baby Yoda) - Diorama
 author: oxi
 subtitle: ""
 header_img: "img/minipainting-header.jpg"
-feature_img: "thumbnail.jpg"
 comment: false
 toc: false
 draft: false
