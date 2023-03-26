@@ -17,7 +17,7 @@ tags:
   - Development
 series: []
 ---
-Nach sieben Jahren habe ich meine Website auf ein neues System migriert, um den administrativen Aufwand zu minimieren. Diesmal geht es wieder zurück zu einem "Static site generator", welcher [Hugo](https://gohugo.io) heisst.
+Nach sieben Jahren habe ich meine Website auf ein neues System migriert, um den administrativen Aufwand zu minimieren. Diesmal geht es wieder zurück zu einem Static site generator, welcher [Hugo](https://gohugo.io) heisst.
 
 Im Gegensatz zum vorher verwendeten CMS [Wordpress](https://wordpress.org/download/), werden die Webseiten nicht bei jedem Aufruf neu berechnet, sondern bei dessen Änderungen als Ganzes einmal berechnet und komplett bereitgestellt. Dies macht Websites schneller, energiesparender und sicherer. Da ich die dynamischen Vorteile von Wordpress sowieso nicht verwendet habe, verliere ich dadurch auch keine Funktionalität.
 
