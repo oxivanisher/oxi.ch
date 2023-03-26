@@ -15,7 +15,7 @@ aliases:
 short: true
 ---
 {{< figure src="thumbnail.jpg" alt="Marc Urben" width="300px" >}}
-**Marc Urben** aka **oxi** aka **oXiVanisher**, Schweiz (Swizerland)
+**Marc Urben** aka **oxi** aka **oXiVanisher**, Schweiz (Switzerland)
 
 ### I like:
 
