@@ -30,6 +30,8 @@ outputs:
     - JSON
     - RSS
 
+enableRobotsTXT: true
+
 # prevent build failures when using Hugo's template _internal/opengraph.html
 taxonomies:
   category: categories
