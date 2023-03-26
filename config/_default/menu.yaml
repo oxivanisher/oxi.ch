@@ -7,7 +7,7 @@ main:
     weight: -100
 
   - identifier: "about"
-    name: "About"
+    name: "Über mich"
     url: "/about/"
     weight: 99
 

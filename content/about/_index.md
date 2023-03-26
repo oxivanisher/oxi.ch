@@ -12,6 +12,7 @@ date: "2016-01-25"
 aliases:
   - contact
   - about-us
+  - about-me
 short: true
 ---
 {{< figure src="thumbnail.jpg" alt="Marc Urben" width="300px" >}}
