@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Über mich
 description: Wer bin ich?
 subtitle: ""
 header_img: "img/workbench-header.jpg"
@@ -15,7 +15,7 @@ aliases:
 short: true
 ---
 {{< figure src="thumbnail.jpg" alt="Marc Urben" width="300px" >}}
-**Marc Urben** aka **oxi** aka **oXiVanisher**, Swizerland / Schweiz
+**Marc Urben** aka **oxi** aka **oXiVanisher**, Schweiz (Swizerland)
 
 ### I like:
 

@@ -7,7 +7,7 @@ main:
     weight: -100
 
   - identifier: "about"
-    name: "About"
+    name: "Über"
     url: "/about/"
     weight: 99
 
@@ -18,7 +18,7 @@ main:
 
 
   - identifier: "3d-printing"
-    name: "3D Printing"
+    name: "3D-Druck"
     url: "/series/3d-printing/"
     weight: 20
 
