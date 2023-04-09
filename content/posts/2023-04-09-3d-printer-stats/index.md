@@ -17,7 +17,7 @@ tags:
 series: []
 ---
 # Einführung
-Als anfangs 2023 mein Prusa MK2 nach 7 Jahren in Rente ging, habe ich mich gefragt wie viele Stunden er wohl in seinem "Leben" gedruckt hat. Immerhin ist er als ein original Prusa MK2 "geboren" worden und ist dann alle Aktualisierungen durchgegangen bis zum MK2.5S. Zwar hat der Drucker selbst einen Druckzeit-Zähler, aber dieser wurde entweder erst mit einer späteren Firmware-Version eingeführt oder wurde einmal unabsichtlich gelöscht als ich eine falsche Version auf den Drucker installiert habe.
+Als anfangs 2023 mein Prusa MK2.5 nach mehr als sechs Jahren in Rente ging, habe ich mich gefragt wie viele Stunden er wohl in seinem "Leben" gedruckt hat. Immerhin ist er als ein original Prusa MK2 "geboren" worden und ist dann alle Aktualisierungen durchgegangen bis zum MK2.5S. Zwar hat der Drucker selbst einen Druckzeit-Zähler, aber dieser wurde entweder erst mit einer späteren Firmware-Version eingeführt oder wurde einmal unabsichtlich gelöscht als ich eine falsche Version auf den Drucker installiert habe.
 
 Ich habe aber fast seit Beginn meiner "3D Druck Karriere" [Octoprint](https://octoprint.org/) mit einem [Webcam Livestream](/3d-printer-livestream/) an allen Druckern und die daraus resultierenden Timelapse-Videos habe ich alle archiviert. Durch das Zählen der Frames in den Videos kann ich somit hoch rechnen wie viele Sekunden jeder Drucker gedruckt hat. Zudem kann ich aus den Dateinamen noch weitere Schlüsse ziehen. Da vor jedem Druck die Druckplatte geheizt wird habe ich mit Durchschnitts-Werten die reine Druckzeit berechnet.
 
