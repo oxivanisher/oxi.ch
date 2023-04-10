@@ -18,6 +18,7 @@ tags:
   - WH40K
   - Diorama
   - Tinkering
+  - Mini Painting
 series: []
 ---
 Aus der Kill Team Box Octarius von Games Workshop stammen die Ork Kommandos. Die reinen Mal-Arbeiten dauerten ca. 20 Stunden. Am Anfang ging es dank den Speed-Paints relativ schnell, aber all die Details der 12 Modelle dann hervor zu heben dauerte schlussendlich viel länger als erwartet.

@@ -17,6 +17,7 @@ tags:
   - Elegoo Mars Pro SLA
   - Diorama
   - Tinkering
+  - Mini Painting
 series: []
 ---
 Ich verwende hier das [Spider-Man Wall Crawler 3D Printing Figurine](https://www.gambody.com/3d-models/spider-man-wall-crawler) Modell vom Creator [Rodman](https://www.gambody.com/user/view/id/3830). Der druck dauerte ca. zehn, alle Mal-Arbeiten zusätzlich ca. zwanzig Stunden.

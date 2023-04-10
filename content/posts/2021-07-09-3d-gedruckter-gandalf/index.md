@@ -18,6 +18,7 @@ tags:
   - Diorama
   - Youtube
   - Tinkering
+  - Mini Painting
 series: []
 ---
 Für ein Geburtstagsgeschenk habe ich den [Gandalf von Gamebody](https://www.gambody.com/3d-models/gandalf-the-gray) auf dem Elegoo Mars Pro gedruckt.

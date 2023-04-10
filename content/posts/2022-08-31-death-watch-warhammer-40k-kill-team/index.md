@@ -18,6 +18,7 @@ tags:
   - WH40K
   - Diorama
   - Tinkering
+  - Mini Painting
 series: []
 ---
 Dieses Kill Team ist in relativ kurzer Zeit entstanden. Dies auch wieder dank den Speed-Paints von The Army Painter.

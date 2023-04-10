@@ -19,6 +19,7 @@ tags:
   - Diorama
   - Youtube
   - Tinkering
+  - Mini Painting
 series: []
 ---
 Als Fan der Stargate-Reihe hat mich das [Modell von Fr3D eines Raumschiffes](https://www.myminifactory.com/object/3d-print-spaceship-pyramid-fdm-resin-printer-needed-134069) aus dem Film und der Serie sofort angesprochen. Meine Idee für die Umsetzung war kurz zusammen gefasst das folgende:
