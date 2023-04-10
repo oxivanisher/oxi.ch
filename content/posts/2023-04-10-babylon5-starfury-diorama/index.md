@@ -22,7 +22,7 @@ tags:
   - Mini Painting
 series: []
 ---
-Als grosser Fan der Serie Babylon 5 hat mich das [Modell der Starfury auf Gambody](http://gambody.com/3d-models/starfury) natürlich angesprochen und nach 13 Tagen Druckzeit mit dem Prusa i3 MK3S+ waren alle Teile fertiggestellt. Ausnahmsweise habe ich mich gegen den SLA- und für den FDM-Druck entschieden. Das Modell ist dadurch viel grösser (45 cm x 35 cm x 30 cm) als alles was ich bis jetzt gemacht habe, aber natürlich ist die Druckqualität nicht auf dem Level eines SLA-Druckes.
+Als grosser Fan der Serie Babylon 5 hat mich das [Modell der Starfury auf Gambody](http://gambody.com/3d-models/starfury) natürlich angesprochen und nach 13 Tagen reine Druckzeit mit dem Prusa i3 MK3S+ waren alle Teile fertiggestellt. Ausnahmsweise habe ich mich gegen den SLA- und für den FDM-Druck entschieden. Das Modell ist dadurch viel grösser (45 cm x 35 cm x 30 cm) als alles was ich bis jetzt gemacht habe, aber natürlich ist die Druckqualität nicht auf dem Level eines SLA-Druckes.
 
 {{< image-gallery gallery_dir="1" >}}
 
@@ -43,8 +43,10 @@ Die Scheiben im Cockpit wären vorgesehen um sie mit klarem Filament zu drucken.
 
 Als [WLED Effekte](https://kno.wled.ge/features/effects/
 ) für die LEDs habe ich folgendes eingestellt:
-* Die Triebwerke gehen zufällig an und aus um Kurs-Korrekturen zu simulieren ([Effekt #18](https://kno.wled.ge/features/effects/).
-* Die Cockpit-Innenbeleuchtung wechselt langsam zwischen rot und orange ([Effekt #2](https://kno.wled.ge/features/effects/).
+* Die Triebwerke gehen zufällig an und aus um Kurs-Korrekturen zu simulieren ([Effekt #18](https://kno.wled.ge/features/effects/)).
+* Die Cockpit-Innenbeleuchtung wechselt langsam zwischen rot und orange ([Effekt #2](https://kno.wled.ge/features/effects/)).
+
+Ich schätze den Arbeitsaufwand (exklusiv 3D-Druck) auf ca. 20 Stunden.
 
 {{< image-gallery gallery_dir="5" >}}
 
