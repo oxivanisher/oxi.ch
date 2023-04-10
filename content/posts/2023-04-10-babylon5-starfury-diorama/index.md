@@ -1,5 +1,5 @@
 ---
-title: "Babylon 5: Starfury - Bust"
+title: "Babylon 5: Starfury - Diorama"
 author: oxi
 subtitle: "It's bad luck to die on empty stomach. - G'Kar to Londo"
 header_img: "img/minipainting-header.jpg"
