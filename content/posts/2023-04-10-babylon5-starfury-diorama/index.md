@@ -21,12 +21,12 @@ tags:
   - CNC
   - Mini Painting
 images:
-  - thumbnail.jpg
-  - thumbnail1.jpg
-  - thumbnail2.jpg
-  - thumbnail3.jpg
-  - thumbnail4.jpg
-  - thumbnail5.jpg
+  - ./thumbnail.jpg
+  - ./thumbnail1.jpg
+  - ./thumbnail2.jpg
+  - ./thumbnail3.jpg
+  - ./thumbnail4.jpg
+  - ./thumbnail5.jpg
 series: []
 ---
 Als grosser Fan der Serie Babylon 5 hat mich das [Modell der Starfury auf Gambody](http://gambody.com/3d-models/starfury) natürlich angesprochen und nach 13 Tagen reine Druckzeit mit dem Prusa i3 MK3S+ waren alle Teile fertiggestellt. Ausnahmsweise habe ich mich gegen den SLA- und für den FDM-Druck entschieden. Das Modell ist dadurch viel grösser (45 cm x 35 cm x 30 cm) als alles was ich bis jetzt gemacht habe, aber natürlich ist die Druckqualität nicht auf dem Level eines SLA-Druckes.
