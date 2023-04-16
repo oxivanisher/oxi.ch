@@ -1,0 +1,5 @@
+User-agent: *
+# don't index redirects to oxi cloud
+Disallow: /3dobjects
+Disallow: /copy
+Disallow: /gschichtli
