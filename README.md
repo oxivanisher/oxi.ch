@@ -29,6 +29,11 @@ Testing HUGO to migrate away from wordpress… This is currently tested on [oxiv
 
 ## Important commands
 ### Initiate the submodules
-```plaintext
+```bash
 git submodule update --init
+```
+
+### Run Hugo locally and render also drafts and posts in the future
+```bash
+hugo serve --buildDrafts  --buildFuture
 ```
