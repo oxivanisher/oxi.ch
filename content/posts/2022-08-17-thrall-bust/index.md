@@ -16,7 +16,6 @@ tags:
   - 3D Printing
   - Elegoo Mars Pro SLA
   - Diorama
-  - Tinkering
   - Mini Painting
 series: []
 ---

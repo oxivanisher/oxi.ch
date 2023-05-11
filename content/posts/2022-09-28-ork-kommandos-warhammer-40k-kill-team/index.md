@@ -13,11 +13,8 @@ categories:
   - Miniatures
 tags:
   - Deutsch
-  - 3D Printing
   - Kill Team
   - WH40K
-  - Diorama
-  - Tinkering
   - Mini Painting
 series: []
 ---
