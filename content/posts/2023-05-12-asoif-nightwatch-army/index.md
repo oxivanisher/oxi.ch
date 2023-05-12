@@ -4,7 +4,7 @@ subtitle: Night gathers, and now my watch begins.
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
-draft: true
+draft: false
 author: oxi
 type: post
 date: "2023-05-12"
