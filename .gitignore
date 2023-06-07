@@ -2,6 +2,8 @@
 wp-export/
 static/imported
 static/imported.rar
+# ide stuff
+.vscode
 # hugo server ignores
 public/
 .hugo_build.lock
