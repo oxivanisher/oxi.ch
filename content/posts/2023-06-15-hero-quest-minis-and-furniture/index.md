@@ -4,7 +4,7 @@ subtitle: "Zargon sais: HEROES? More like ZEROES!!!!"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
-draft: true
+draft: false
 author: oxi
 type: post
 date: "2023-06-15"
