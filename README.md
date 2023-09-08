@@ -1,6 +1,8 @@
 # oxi.ch
 
-Testing HUGO to migrate away from wordpress… This is currently tested on [oxivanisher.github.io/oxi.ch/](https://oxivanisher.github.io/oxi.ch/).
+Source for [oxi.ch](oxi.ch).
+
+The github.io url is: [oxivanisher.github.io/oxi.ch/](https://oxivanisher.github.io/oxi.ch/).
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=oxivanisher&show_icons=true)
 
