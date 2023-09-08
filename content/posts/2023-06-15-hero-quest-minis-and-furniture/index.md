@@ -24,11 +24,9 @@ series: []
 #   - ./thumbnail5.jpg
 ---
 # Hero Quest 2022
-
 Hero Quest wurde 1989 zum ersten Mal und im 2022 erneut herausgebracht. Inzwischen gehört die IP Hasbro (so wie z.B. auch Dungeons & Dragons oder Magic the Gathering) und die neue Version hat überarbeitete Figuren und Möbel. Für viele Tabletop-Spieler war Hero Quest der Einstieg in die Welt der Minis.
 
 ## Minis
-
 Die Minis von Hero Quest sind im Gegensatz zu den meisten anderen Minis zum einen aus verschieden farbigem Plastik, so dass auch in einem Spiel mit nicht bemalten klar ersichtlich ist welches die Helden sind und welches die Monster. Zum anderen ist der Plastik viel flexibler. Dies damit die Figuren auch beim intensiven Bespielt werden von Kindern nicht so schnell kaputt gehen. Dafür sind sie nicht so detailliert wie andere Minis und die Farbe kann natürlich darunter leiden, wenn der Untergrund so flexibel ist und es können Risse entstehen.
 
 ### Priming (Grundieren)
@@ -43,7 +41,9 @@ Das Bemalen hat mehrere Abende in Anspruch genommen. Ich habe mich Farbe für Fa
 Im Gegenzug zu den meisten anderen Minis, kriegen diese keine komplexen Bases. Die Bases werden auf der Oberseite einfach schwarz angemalt, und der Rand symbolisiert die Erweiterung oder ob die Minis Helden sind.
 {{< image-gallery gallery_dir="03_minis_bases" >}}
 
-## Möbel
+Die Minis wurden am 6. Juni 2023 fertiggestellt.
+
+## Möbel und Terrain
 ### Priming (Grundieren)
 Auch die Möbel werden grundiert. Diese sind ebenfalls aus verschieden farbigem Plastik was auch hier das Bemalen nicht unbedingt nötig macht.
 {{< image-gallery gallery_dir="11_furniture_prime" >}}
@@ -53,8 +53,10 @@ Das Bemalen der Möbel wurde ebenfalls mit Speed Paints durchgeführt. Mit Ausna
 {{< image-gallery gallery_dir="12_furniture_painting" >}}
 
 ### 3D-Gedruckte Wände und Treppe
-Im Spiel sind Wände mit und ohne Geheimgänge nur Token die auf dem Spielfeld abgelegt werden. Ich habe jedoch schöne 3D-Modelle ([1](https://www.thingiverse.com/thing:6000114), [2](https://www.thingiverse.com/thing:6005201), [3](https://www.thingiverse.com/thing:6004303)) gefunden habe. Auch die Treppe über welche die Helden jeweils in ihre Abenteuer stürzen, wurde in [3D Gedruckt](https://www.thingiverse.com/thing:5020617).
+Im Spiel sind Wände mit und ohne Geheimtüren nur Tokens die auf dem Spielfeld abgelegt werden. Ich habe jedoch schöne 3D-Modelle ([Wände](https://www.thingiverse.com/thing:6000114), [Doppelwand](https://www.thingiverse.com/thing:6005201), [Wand mit Gehimtür](https://www.thingiverse.com/thing:6004303)) gefunden und gedruckt. Auch die Treppe über welche die Helden jeweils in den Dungeon hinabsteigen, wurde in [3D Gedruckt](https://www.thingiverse.com/thing:5020617).
 {{< image-gallery gallery_dir="13_furniture_3dprinted" >}}
 
-### Resultat
+### Das Resultat
 {{< image-gallery gallery_dir="14_furniture_result" >}}
+
+Die Möbel und das Terrain wurden am 20. Juni 2023 fertiggestellt.
