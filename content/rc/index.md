@@ -20,4 +20,3 @@ Eine Passion von mir ist der Modellbau und besonders das Hobby der ferngesteuert
 
 Für interessierte hinterlege ich alle meine BetaFlight, iNav und OpenTX Konfigurationen in einem [GitHub Repository](https://github.com/oxivanisher/rc-settings).
 
-Anmerkung 08.09.2023: Der Verein hat sich aufgelöst, da die Mitgliedschaft als Verein im SMV nie realisiert werden konnte und durch die neuen Regulierungen der Drohnen auch kein Vorteil mehr darin bestehen würde.
