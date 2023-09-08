@@ -54,12 +54,14 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: Restore hugo rendered cached images
+      - name: Restore hugo resources/ cache
         id: restore-generated-images
         uses: actions/cache/restore@v3
         with:
-          path: ./resources/_gen/images/
-          key: ${{ runner.os }}-${{ steps.hugo-version.outputs.HUGO_VERSION }}
+          path: ./resources/
+          key: OS_${{ runner.os }}-Hugo_${{ steps.hugo-version.outputs.HUGO_VERSION }}-Commit_${{ github.sha }}
+          restore-keys: |
+            OS_${{ runner.os }}-Hugo_${{ steps.hugo-version.outputs.HUGO_VERSION }}-
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -70,12 +72,12 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Save hugo rendered cached images
+      - name: Save hugo resources/ cache
         id: cache-generated-images
         uses: actions/cache/save@v3
         with:
-          path: ./resources/_gen/images/
-          key: ${{ runner.os }}-${{ steps.hugo-version.outputs.HUGO_VERSION }}
+          path: ./resources/
+          key: OS_${{ runner.os }}-Hugo_${{ steps.hugo-version.outputs.HUGO_VERSION }}-Commit_${{ github.sha }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
