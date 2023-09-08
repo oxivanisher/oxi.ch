@@ -35,5 +35,5 @@ git submodule update --init
 
 ### Run Hugo locally and render also drafts and posts in the future
 ```bash
-hugo serve --buildDrafts  --buildFuture
+hugo serve --buildDrafts --buildFuture --navigateToChanged
 ```
