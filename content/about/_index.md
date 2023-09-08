@@ -43,7 +43,6 @@ short: true
 
 ### Vereine:
 
-* [FPV Enthusiasts (Präsident)](https://fpv-enthusiasts.ch)
 * [Swiss FPV Community (Aktuar u. Finanzen)](https://swissfpvracing.ch/verein/)
 * [Repair Café Herzogenbuchsee (Im Vorstand als Vertreter der Reparateure)](http://repkafi.ch)
 * [Musikgesellschaft Inkwil (Passivmitglied)](https://www.mginkwil.ch)

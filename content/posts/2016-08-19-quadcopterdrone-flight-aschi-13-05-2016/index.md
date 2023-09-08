@@ -16,7 +16,7 @@ tags:
   - Freestyle
   - FPV
   - Quadcopter
-  - Freestlye
+  - Freestyle
   - DALRC RX251
   - Youtube
 series: []

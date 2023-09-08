@@ -19,3 +19,4 @@ series:
 Eine Passion von mir ist der Modellbau und besonders das Hobby der ferngesteuerten Flugzeuge und FPV-Drohnen. Ich habe mit Kollegen den Verein [FPV Enthusiasts](http://fpv-enthusiasts.ch/) gegründet. Um das FPV-Hobby in der Schweiz besser zu fördern, haben wir mit unserem Verein die Plattform [FPV Hub](http://fpvhub.ch/) initialisiert. Alle Informationen rund um das Hobby wurden in [diese Seite auf dem FPV Hub](https://fpvhub.ch/infos) migriert. Als guter Einstieg eignet sich z.B. [meine FPV-Geschichte](https://fpvhub.ch/infos/geschichte).
 
 Für interessierte hinterlege ich alle meine BetaFlight, iNav und OpenTX Konfigurationen in einem [GitHub Repository](https://github.com/oxivanisher/rc-settings).
+
