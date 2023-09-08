@@ -43,3 +43,10 @@ Die Minis von Hero Quest sind im Gegensatz zu den meisten anderen Minis zum eine
 {{< image-gallery gallery_dir="11_furniture_prime" >}}
 ### Bemalen
 {{< image-gallery gallery_dir="12_furniture_painting" >}}
+
+
+### 3D-Gedruckte Wände und Treppe
+{{< image-gallery gallery_dir="13_furniture_3dprinted" >}}
+
+### Resultat
+{{< image-gallery gallery_dir="14_furniture_result" >}}
