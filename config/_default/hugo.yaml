@@ -20,8 +20,10 @@ enableEmoji: true
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors:
   - error-remote-getjson
-disqusShortname: ""
-googleAnalytics: UA-55583657-1
+
+services:
+  googleAnalytics:
+    ID: UA-55583657-1
 
 outputs:
   home:
@@ -43,7 +45,7 @@ markup:
     codeFences: true
     guessSyntax: true
     lineNos: true
-    lineNumbersInTabl: false
+    lineNumbersInTable: false
     style: "dracula"
 
   goldmark:
