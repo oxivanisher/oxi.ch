@@ -5,6 +5,7 @@ header_img: "img/it-header.jpg"
 comment: false
 toc: false
 draft: false
+hide_thumbnail: true
 author: oxi
 type: post
 date: "2023-03-21"

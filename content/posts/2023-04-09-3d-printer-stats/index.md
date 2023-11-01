@@ -6,6 +6,7 @@ header_img: "img/3dprinting-header.jpg"
 comment: false
 toc: false
 draft: false
+hide_thumbnail: true
 lang: de
 type: post
 date: "2023-04-09"
