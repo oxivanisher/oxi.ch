@@ -6,6 +6,7 @@ header_img: "img/it-header.jpg"
 comment: false
 toc: true
 draft: false
+hide_thumbnail: true
 lang: en
 type: post
 date: "2023-10-31"

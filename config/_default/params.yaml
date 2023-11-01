@@ -1,5 +1,4 @@
 ---
-
 author: "oxi"
 description: "IT-Freak, Gamer, Bastler, Multicopter-Fan, 3D-Printing-Enthusiast & Weltverbesserer"
 keywords: "blog,3dprinting,personal,diy,maker"
@@ -20,7 +19,7 @@ galleryThumbnailResizeOptions: "160x160 q85 CatmullRom"
 galleryImageResizeOptions: "1600x1600 q85 Lanczos"
 galleryShowFilenames: false
 
-postPrevThumbResOptions: "160x160 q85 CatmullRom"
+postPrevThumbResOptions: "160x160 q85 CatmullRom Center"
 postThumbResOptions: "700x q85 Lanczos"
 
 sidebar:
@@ -39,7 +38,6 @@ social:
   # gitlab = "johndoe"
   # linkedin = "johndoe"
   rss: true
-
 # [[params.friends]]
 # name = "John Doe"
 # url = "https://gohugo.io"
@@ -59,13 +57,11 @@ social:
 # theme = "light_tritanopia"
 # lang = "en"
 
-
 ## old design stuff
 
 #AuthorName: Marc Urben
 #GitHubUser: oxivanisher
 #date_format: '2006-01-02'
-
 
 # hugo-universal-theme params
 # disabled_logo: false
