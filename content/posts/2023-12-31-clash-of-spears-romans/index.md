@@ -7,7 +7,7 @@ toc: false
 draft: true
 author: oxi
 type: post
-date: "2023-07-18"
+date: "2023-12-31"
 lang: de
 categories:
   - Miniatures
@@ -24,3 +24,5 @@ series: []                      # only used for pages, not posts
 #   - ./thumbnail5.jpg
 ---
 The page content (see cheatsheet on https://wiki.oxi.ch/e/en/projects/oxi )
+
+Project started 2023-07-18 or so.
