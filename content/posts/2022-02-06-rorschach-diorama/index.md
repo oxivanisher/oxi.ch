@@ -19,12 +19,12 @@ tags:
   - Diorama
   - Mini Painting
 series: []
-images:
-  - ./thumbnail.jpg
-  - ./thumbnail1.jpg
-  - ./thumbnail2.jpg
-  - ./thumbnail3.jpg
-  - ./thumbnail4.jpg
+# images:
+#   - ./thumbnail.jpg
+#   - ./thumbnail1.jpg
+#   - ./thumbnail2.jpg
+#   - ./thumbnail3.jpg
+#   - ./thumbnail4.jpg
 ---
 Rorschach ist ein Anti-Held aus dem Watchmen Universum von DC Comics. Nach langer Zeit habe ich wieder einmal den Film aus dem Jahr 2009 (diesmal in der 3.5 Stunden-Fassung 😍) geschaut habe, hatte ich Lust meinen Lieblings-Charakter “Rorschach” zu bemalen. Die verwendete 3D-Datei ist gratis bei [MyMinifactory](https://www.myminifactory.com/object/3d-print-rorschach-from-watchmen-support-free-108809) zu finden.
 

@@ -20,12 +20,12 @@ tags:
   - Tinkering
   - Mini Painting
 series: []
-images:
-  - ./thumbnail.jpg
-  - ./thumbnail1.jpg
-  - ./thumbnail2.jpg
-  - ./thumbnail3.jpg
-  - ./thumbnail4.jpg
+# images:
+#   - ./thumbnail.jpg
+#   - ./thumbnail1.jpg
+#   - ./thumbnail2.jpg
+#   - ./thumbnail3.jpg
+#   - ./thumbnail4.jpg
 ---
 Für ein Geburtstagsgeschenk habe ich den [Gandalf von Gamebody](https://www.gambody.com/3d-models/gandalf-the-gray) auf dem Elegoo Mars Pro gedruckt.
 
