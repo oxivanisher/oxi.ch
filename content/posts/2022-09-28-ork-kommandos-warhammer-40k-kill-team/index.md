@@ -17,12 +17,12 @@ tags:
   - WH40K
   - Mini Painting
 series: []
-# images:
-#   - ./thumbnail.jpg
-#   - ./thumbnail1.jpg
-#   - ./thumbnail2.jpg
-#   - ./thumbnail3.jpg
-#   - ./thumbnail4.jpg
+images:
+  - thumbnail.jpg
+  - thumbnail1.jpg
+  - thumbnail2.jpg
+  - thumbnail3.jpg
+  - thumbnail4.jpg
 ---
 Aus der Kill Team Box Octarius von Games Workshop stammen die Ork Kommandos. Die reinen Mal-Arbeiten dauerten ca. 20 Stunden. Am Anfang ging es dank den Speed-Paints relativ schnell, aber all die Details der 12 Modelle dann hervor zu heben dauerte schlussendlich viel länger als erwartet.
 

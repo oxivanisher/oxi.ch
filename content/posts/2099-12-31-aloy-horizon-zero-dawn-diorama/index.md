@@ -1,27 +1,30 @@
 ---
-title: Clash of Spears - Romans
-subtitle: There are no lefties!
+title: Aloy from Horizon Zero Dawn - Diorama
+subtitle: nix yet
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
 draft: true
 author: oxi
 type: post
-date: "2023-12-31"
+date: "2099-12-31"
 lang: de
 categories:
   - Miniatures
 tags:
   - Deutsch
-  - Clash of Spears
+  - 3D Printing
+  - Elegoo Mars Pro SLA
+  - Diorama
   - Mini Painting
 series: []                      # only used for pages, not posts
-# Hugo does not support this in a useful way yet
-# https://github.com/gohugoio/hugo/issues/10665
-# images:
-#   - ./thumbnail.jpg
-#   ...
-#   - ./thumbnail5.jpg
+images:
+  - thumbnail.jpg
+  - thumbnail1.jpg
+  - thumbnail2.jpg
+  - thumbnail3.jpg
+  - thumbnail4.jpg
+# ToDo: create more social media images to post
 ---
 The page content (see cheatsheet on https://wiki.oxi.ch/e/en/projects/oxi )
 

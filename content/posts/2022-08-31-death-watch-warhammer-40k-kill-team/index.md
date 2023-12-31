@@ -17,12 +17,12 @@ tags:
   - WH40K
   - Mini Painting
 series: []
-# images:
-#   - ./thumbnail.jpg
-#   - ./thumbnail1.jpg
-#   - ./thumbnail2.jpg
-#   - ./thumbnail3.jpg
-#   - ./thumbnail4.jpg
+images:
+  - thumbnail.jpg
+  - thumbnail1.jpg
+  - thumbnail2.jpg
+  - thumbnail3.jpg
+  - thumbnail4.jpg
 ---
 Dieses Kill Team ist in relativ kurzer Zeit entstanden. Dies auch wieder dank den Speed-Paints von The Army Painter.
 Der Zusammenbau dauerte ca. eine, das Bemalen ca. sieben Stunden (ohne die Bases).

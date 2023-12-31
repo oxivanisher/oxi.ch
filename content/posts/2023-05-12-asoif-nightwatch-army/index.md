@@ -16,6 +16,9 @@ tags:
   - ASOIF
   - Mini Painting
 series: []
+images:
+  - thumbnail.jpg
+# ToDo: create more social media images to post
 ---
 Auch ich habe die Bücher sowie die Serie von Game of Thrones gelesen und gesehen und finde diese dunkle Fantasy-Welt faszinierend. Natürlich sprechen wir hier nicht über die letzte Staffel der Serie...
 

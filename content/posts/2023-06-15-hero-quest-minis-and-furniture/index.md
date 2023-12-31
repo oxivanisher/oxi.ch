@@ -16,12 +16,9 @@ tags:
   - Hero Quest
   - Mini Painting
 series: []
-# Hugo does not support this in a useful way yet
-# https://github.com/gohugoio/hugo/issues/10665
-# images:
-#   - ./thumbnail.jpg
-#   ...
-#   - ./thumbnail5.jpg
+images:
+  - thumbnail.jpg
+# ToDo: create more social media images to post
 ---
 # Hero Quest 2022
 Hero Quest wurde 1989 zum ersten Mal und 2022 erneut herausgebracht. Inzwischen gehört die IP Hasbro (so wie z.B. auch Dungeons & Dragons oder Magic the Gathering) und die neue Version hat überarbeitete Figuren und Möbel. Für viele Tabletop-Spieler war Hero Quest der Einstieg in die Welt der Minis, da dieses Spiel schon für Jugendliche ab 14 Jahren empfohlen wird.
