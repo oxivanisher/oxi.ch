@@ -23,8 +23,11 @@ images:
   - thumbnail2.jpg
   - thumbnail3.jpg
   - thumbnail4.jpg
+
+# hugo bug with links...
+# [Gellerpox Infected]({{< ref "2020-10-12-gellerpox-infected-warhammer-40k-kill-team" >}})
 ---
-Diese Warhammer Kill Team Figuren waren mit dem [Gellerpox Infected]({{< ref "2020-10-12-gellerpox-infected-warhammer-40k-kill-team" >}}) in der "Kill Team: Into the Dark" Box. Sie mussten mehr als 1.5 Jahre darauf warten, um nach dem Grundieren etwas Farbe zu erhalten. Bei einem Team mit zehn Figuren ist es schwierig dies mit Fotos so festzuhalten, dass es verständlich ist. Ich habe mein bestes gegeben um aus den 314 Bildern sinnvolle auszuwählen. 😂
+Diese Warhammer Kill Team Figuren waren mit dem Gellerpox Infected in der "Kill Team: Into the Dark" Box. Sie mussten mehr als 1.5 Jahre darauf warten, um nach dem Grundieren etwas Farbe zu erhalten. Bei einem Team mit zehn Figuren ist es schwierig dies mit Fotos so festzuhalten, dass es verständlich ist. Ich habe mein bestes gegeben um aus den 314 Bildern sinnvolle auszuwählen. 😂
 Die gesamten Mal-Arbeiten dauerten ca. 20 Stunden.
 
 {{< image-gallery gallery_dir="1" >}}

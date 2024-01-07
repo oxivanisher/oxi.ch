@@ -21,9 +21,12 @@ images:
   - thumbnail.jpg
   - thumbnail1.jpg
   - thumbnail2.jpg
+
+# hugo bug with links...
+# [Elucidian Starstriders]({{< ref "2022-08-03-elucidian-starstriders-warhammer-40k-kill-team" >}})
 ---
 
-Zusammen mit den [Elucidian Starstriders]({{< ref "2022-08-03-elucidian-starstriders-warhammer-40k-kill-team" >}}) war dieses Kill Team in der "Into the Dark" Box von Games Workshop. Mit der Hilfe des [Videos "Speed painting Gellerpox Infected" von Midwinter Minis](https://www.youtube.com/watch?v=2XqLoWjipnI) habe dieses Kill Team bemalt.
+Zusammen mit den Elucidian Starstriders war dieses Kill Team in der "Into the Dark" Box von Games Workshop. Mit der Hilfe des [Videos "Speed painting Gellerpox Infected"](https://www.youtube.com/watch?v=2XqLoWjipnI) von Midwinter Minis habe dieses Kill Team bemalt.
 
 {{< image-gallery gallery_dir="1" >}}
 
