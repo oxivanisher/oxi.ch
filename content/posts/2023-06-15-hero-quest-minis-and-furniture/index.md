@@ -17,8 +17,13 @@ tags:
   - Mini Painting
 series: []
 images:
-  - thumbnail.jpg
-# ToDo: create more social media images to post
+images:
+  - 16_thumbnails/thumbnail.jpg
+  - 16_thumbnails/thumbnail1.jpg
+  - 16_thumbnails/thumbnail2.jpg
+  - 16_thumbnails/thumbnail3.jpg
+  - 16_thumbnails/thumbnail4.jpg
+  - 16_thumbnails/thumbnail5.jpg
 ---
 # Hero Quest 2022
 Hero Quest wurde 1989 zum ersten Mal und 2022 erneut herausgebracht. Inzwischen gehört die IP Hasbro (so wie z.B. auch Dungeons & Dragons oder Magic the Gathering) und die neue Version hat überarbeitete Figuren und Möbel. Für viele Tabletop-Spieler war Hero Quest der Einstieg in die Welt der Minis, da dieses Spiel schon für Jugendliche ab 14 Jahren empfohlen wird.
@@ -55,5 +60,7 @@ Im Spiel sind Wände mit und ohne Geheimtüren nur Tokens die auf dem Spielfeld 
 
 ### Das Resultat
 {{< image-gallery gallery_dir="14_furniture_result" >}}
+
+{{< image-gallery gallery_dir="." >}}
 
 Die Möbel und das Terrain wurden am 20. Juni 2023 fertiggestellt.
