@@ -7,7 +7,7 @@ toc: false
 draft: false
 author: oxi
 type: post
-date: "2023-05-12"
+date: "2023-04-26"
 lang: de
 categories:
   - Miniatures
@@ -18,7 +18,10 @@ tags:
 series: []
 images:
   - thumbnail.jpg
-# ToDo: create more social media images to post
+  - thumbnail1.jpg
+  - thumbnail2.jpg
+  - thumbnail3.jpg
+  - thumbnail4.jpg
 ---
 Auch ich habe die Bücher sowie die Serie von Game of Thrones gelesen und gesehen und finde diese dunkle Fantasy-Welt faszinierend. Natürlich sprechen wir hier nicht über die letzte Staffel der Serie...
 
@@ -68,5 +71,7 @@ Als letzter Schritt werden die Markierungen and den Bases hervorgehoben damit si
 
 Die Nachtwache ist endlich fertig!
 {{< image-gallery gallery_dir="15_finish" >}}
+
+{{< image-gallery gallery_dir="." >}}
 
 Die Nightwatch Armee wurde am 26. April 2023 fertiggestellt.
