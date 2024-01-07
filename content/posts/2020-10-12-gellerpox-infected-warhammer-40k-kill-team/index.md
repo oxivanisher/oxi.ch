@@ -5,7 +5,7 @@ subtitle: "Warhammer 40K Kill Team"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
-draft: true
+draft: false
 lang: de
 type: post
 date: "2020-10-12"
@@ -24,6 +24,8 @@ images:
 ---
 
 Zusammen mit den [Elucidian Starstriders]({{< ref "2022-08-03-elucidian-starstriders-warhammer-40k-kill-team" >}}) war dieses Kill Team in der "Into the Dark" Box von Games Workshop. Mit der Hilfe des [Videos "Speed painting Gellerpox Infected" von Midwinter Minis](https://www.youtube.com/watch?v=2XqLoWjipnI) habe dieses Kill Team bemalt.
+
+{{< image-gallery gallery_dir="1" >}}
 
 {{< image-gallery gallery_dir="." >}}
 
