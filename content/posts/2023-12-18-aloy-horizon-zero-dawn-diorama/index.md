@@ -18,6 +18,8 @@ tags:
   - Diorama
   - Mini Painting
 series: []
+aliases:
+  - /s/aloy
 images:
   - thumbnail.jpg
   - thumbnail1.jpg

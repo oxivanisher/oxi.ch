@@ -16,6 +16,8 @@ tags:
   - Hero Quest
   - Mini Painting
 series: []
+aliases:
+  - /s/heroquest
 images:
   - thumbnail.jpg
   - thumbnail1.jpg

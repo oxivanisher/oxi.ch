@@ -17,6 +17,8 @@ tags:
   - WH40K
   - Mini Painting
 series: []
+aliases:
+  - /s/gellerpox
 images:
   - thumbnail.jpg
   - thumbnail1.jpg

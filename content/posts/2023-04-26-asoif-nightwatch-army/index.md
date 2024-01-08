@@ -16,6 +16,8 @@ tags:
   - ASOIF
   - Mini Painting
 series: []
+aliases:
+  - /s/nightwatch
 images:
   - thumbnail.jpg
   - thumbnail1.jpg
