@@ -1,5 +1,5 @@
 ---
-title: Aloy from Horizon Zero Dawn - Diorama
+title: Aloy Horizon Zero Dawn - Diorama
 subtitle: "Survival requires perfection. – Aloy"
 header_img: "img/minipainting-header.jpg"
 comment: false
