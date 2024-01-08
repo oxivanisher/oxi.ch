@@ -16,6 +16,8 @@ tags:
   - WH40K
   - Mini Painting
 series: []
+aliases:
+  - /s/mechanicus
 images:
   - thumbnail.jpg
   - thumbnail1.jpg
