@@ -26,7 +26,7 @@ images:
   - thumbnail3.jpg
   - thumbnail4.jpg
 ---
-Um weiter meinen "Pile of shame" zu bekämpfen, habe ich erneut die älteste Kill Team Box gewählt. Neben den Sororitas im letzen Beitrag waren die "Tau Pathfinders" als zweite Fraktion in der Box. More text blabla not yet done...
+Um weiter meinen "Pile of shame" zu bekämpfen, habe ich erneut die älteste Kill Team Box gewählt in welcher noch Minis übrig sind: Chalnath. Neben den Sororitas im letzen Beitrag waren die "Tau Pathfinders" als zweite Fraktion in der Box. More text blabla not yet done...
 
 
 Zuerst Bilder des Build-Prozesses.

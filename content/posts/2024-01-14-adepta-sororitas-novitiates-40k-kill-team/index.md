@@ -26,7 +26,7 @@ images:
   - thumbnail3.jpg
   - thumbnail4.jpg
 ---
-Um meinen "Pile of shame" zu bekämpfen, habe ich ganz hinten angefangen und die älteste Kill Team Box gewählt. In dieser Box waren zwei Teams und eines davon sind die "Adepta Sororitas Novitiates". Adepta Sororitas aka "Töchter des Imperators" ist eine reine Frauen Organisation die meistens der Kirche untergeordnet sind. Diese Kill Team ist eine Anwärter Truppe für die Sororitas.
+Um meinen "Pile of shame" zu bekämpfen, habe ich ganz hinten angefangen und die älteste Kill Team Box gewählt von welcher ich noch Minis zum bauen habe: Chalnath. In dieser Box waren zwei Teams und eines davon sind die "Adepta Sororitas Novitiates". Adepta Sororitas aka "Töchter des Imperators" ist eine reine Frauen Organisation die meistens der Kirche untergeordnet sind. Diese Kill Team ist eine Anwärter Truppe für die Sororitas.
 
 Zuerst Bilder des Build-Prozesses.
 {{< image-gallery gallery_dir="01_building" >}}
