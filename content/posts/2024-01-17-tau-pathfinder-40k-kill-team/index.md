@@ -42,7 +42,7 @@ Danach habe ich alle möglichen Details der Figuren mit verschiedenen Metall-Far
 {{< image-gallery gallery_dir="04_metals_details_gloss" >}}
 
 Da die T'au die einzige Armee im Warhammer Universum ist, die sich um Tarnung kümmert, und ich wollte einmal Jungel-Bases probieren. Wie immer wurde der Rand die Bases am Schluss schwarz bemalt.
-{{< image-gallery gallery_dir="05_decals_and_basing" >}}
+{{< image-gallery gallery_dir="05_basing" >}}
 
 Die Space-Communists sind bereit in den Kampf für "The Greater Good" zu ziehen.
 {{< image-gallery gallery_dir="." >}}
