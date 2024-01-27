@@ -18,6 +18,8 @@ tags:
   - Clash of Spears
   - Mini Painting
 series: []
+aliases:
+  - /s/romans
 images:
   - thumbnail.jpg
   - thumbnail1.jpg
