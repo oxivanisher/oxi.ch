@@ -27,17 +27,30 @@ images:
   - thumbnail3.jpg
   - thumbnail4.jpg
 ---
-The page content (see cheatsheet on https://wiki.oxi.ch/e/en/projects/oxi )
 
-Project started 2023-07-18 or so.
+Die 70 Krieger für das Spiel "Clash of Clans" wurden mit dem Elegoo Mars Pro 3D gedruckt. Dieses Projekt war viel aufwändiger als ich erst gedacht hatte und dies ist auch der Grund warum es fast 10 Monate gedauert hat. Ich musste mich immer wieder neu motivieren den nächsten Schritt zu unternehmen.
 
+Zudem sind diese Figuren etwas kleiner als Warhammer-Figuren ("echte" 28 mm und nicht sog. Heroic Scale). Dies zusammen mit der Tatsache dass die 3D gedruckten Sachen viel empfindlicher sind haben zu vielen abgebrochenen Federn und Waffen geführt.
+
+Einfach zusammengefasst: Wenn ein Schritt eine Minute länger dauert, braucht das Projekt bei 70 Figuren sofort mehr als eine zusätzliche Stunde... 😅
+
+#### 3D-Druck
 {{< image-gallery gallery_dir="01_3dprinting" >}}
+
+#### Schilde und Figuren grundieren
 {{< image-gallery gallery_dir="02_prime_shields" >}}
+
+#### Speedpaints im Jahr 2023
 {{< image-gallery gallery_dir="03_2023_painting" >}}
+
+#### Speedpaints zum 2. im Jahr 2024
 {{< image-gallery gallery_dir="04_2024_painting" >}}
+
+#### Vogelsand für die Bases und ankleben der Schilder
+Merke: Dieser Aktivator für den Sekundenkleber löst die Speedpaints auf ... 😤
 {{< image-gallery gallery_dir="05_basing_shields" >}}
 
-
+#### Resultat
 {{< image-gallery gallery_dir="." >}}
 
-Die Romans für Clash of Spears wurden am 27. Januar 2024 fertiggestellt.
+Die Romans für Clash of Spears wurden am 27. Januar 2024 endlich fertiggestellt.
