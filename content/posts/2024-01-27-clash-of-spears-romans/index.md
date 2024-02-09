@@ -28,7 +28,7 @@ images:
   - thumbnail4.jpg
 ---
 
-Die 70 Krieger für das Spiel "Clash of Clans" wurden mit dem Elegoo Mars Pro 3D gedruckt. Dieses Projekt war viel aufwändiger als ich erst gedacht hatte und dies ist auch der Grund warum es fast 10 Monate gedauert hat. Ich musste mich immer wieder neu motivieren den nächsten Schritt zu unternehmen.
+Die 70 Krieger für das Spiel "Clash of Spears" wurden mit dem Elegoo Mars Pro 3D gedruckt. Dieses Projekt war viel aufwändiger als ich erst gedacht hatte und dies ist auch der Grund warum es fast 10 Monate gedauert hat. Ich musste mich immer wieder neu motivieren den nächsten Schritt zu unternehmen.
 
 Zudem sind diese Figuren etwas kleiner als Warhammer-Figuren ("echte" 28 mm und nicht sog. Heroic Scale). Dies zusammen mit der Tatsache dass die 3D gedruckten Sachen viel empfindlicher sind haben zu vielen abgebrochenen Federn und Waffen geführt.
 
