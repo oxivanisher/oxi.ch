@@ -4,7 +4,7 @@ subtitle: There are no lefties!
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
-draft: true
+draft: false
 author: oxi
 type: post
 date: "2024-01-27"
@@ -32,7 +32,9 @@ Die 70 Krieger für das Spiel "Clash of Spears" wurden mit dem Elegoo Mars Pro 3
 
 Zudem sind diese Figuren etwas kleiner als Warhammer-Figuren ("echte" 28 mm und nicht sog. Heroic Scale). Dies zusammen mit der Tatsache dass die 3D gedruckten Sachen viel empfindlicher sind haben zu vielen abgebrochenen Federn und Waffen geführt.
 
-Einfach zusammengefasst: Wenn ein Schritt eine Minute länger dauert, braucht das Projekt bei 70 Figuren sofort mehr als eine zusätzliche Stunde... 😅
+Was ich bei diesem Projekt schmerzhaft gelernt habe ist, dass wenn ein Schritt eine Minute länger dauert, braucht das Projekt bei 70 Figuren sofort mehr als eine zusätzliche Stunde... 😅
+
+Diese Figuren sind ganz klar ein MVP ("minimal viable product" oder auf Deutsch: minimal brauchbares Produkt)! 😂
 
 #### 3D-Druck
 {{< image-gallery gallery_dir="01_3dprinting" >}}
