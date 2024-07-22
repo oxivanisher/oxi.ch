@@ -21,9 +21,7 @@ enableEmoji: true
 ignoreErrors:
   - error-remote-getjson
 
-services:
-  googleAnalytics:
-    ID: UA-55583657-1
+services: []
 
 outputs:
   home:
