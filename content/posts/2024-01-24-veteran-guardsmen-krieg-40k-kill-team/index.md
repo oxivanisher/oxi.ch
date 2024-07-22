@@ -28,7 +28,9 @@ images:
 ---
 Der nächste Schritt im Kampf gegen meinen "Pile of shame" ist das "Veteran Guardsmen" Kill Team. Diese berühmt berüchtigten Krieger sind vom "Death Korps of Krieg" und erinnern im Stil an Soldaten aus der Ära des 2. Weltkrieges. Sie waren in der Box Octarius, zusammen mit den Ork Kommandos welche ich aber bereits bemalt habe.
 
-Mein Prozess zum Bau und dem Bemalen der Figuren ist inzwischen schon fast standardisiert und ich werde nur noch auf spezielle Dinge eingehen. Dieses Kill Team wurde mit Hilfe [dieses Reddit posts](https://www.reddit.com/user/Noeq/comments/swz0bv/recommendation_optimal_build_for_the_death_korps/) zusammengestellt um die möglichst beste Zusammenstellung zu erhalten. Dafür musste ich meinen ersten kleinen Kit-Bash durchführen. Das heisst Teile zusammenfügen welche eigentlich nicht zusammen Passen und die dadurch entstehenden Löcher und Spalten kaschieren.
+Mein Prozess zum Bau und dem Bemalen der Figuren ist inzwischen schon fast standardisiert und ich werde nur noch auf spezielle Dinge eingehen. Beschrieben ist dieser Prozess auf dem [T'au Pathfinder Post](./posts/2024-01-17-tau-pathfinder-40k-kill-team/).
+
+Dieses Kill Team wurde mit Hilfe [dieses Reddit posts](https://www.reddit.com/user/Noeq/comments/swz0bv/recommendation_optimal_build_for_the_death_korps/) zusammengestellt um die möglichst beste Zusammenstellung zu erhalten. Dafür musste ich meinen ersten kleinen Kit-Bash durchführen. Das heisst Teile zusammenfügen welche eigentlich nicht zusammen Passen und die dadurch entstehenden Löcher und Spalten kaschieren.
 
 #### Zusammenbau
 Da es gemäss dem Guide wichtig ist, genau die richtigen Teile zusammen zu kleben, habe ich zuerst für jede Figur alle Teile gesammelt und erst am Schluss alles zusammen geklebt.
