@@ -17,7 +17,6 @@ tags:
   - FPV
   - Quadcopter
   - DALRC RX251
-  - Crash
   - Youtube
 series: []
 ---

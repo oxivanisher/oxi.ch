@@ -15,7 +15,6 @@ tags:
   - Deutsch
   - 3D Printing
   - Elegoo Mars Pro SLA
-  - Clash of Spears
   - Mini Painting
 series: []
 aliases:

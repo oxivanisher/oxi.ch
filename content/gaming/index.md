@@ -11,7 +11,6 @@ date: "2019-09-07"
 categories:
   - IT
 tags:
-  - Gaming
   - Deutsch
 series:
   - IT

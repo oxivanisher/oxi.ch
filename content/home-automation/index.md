@@ -12,7 +12,6 @@ categories:
   - IT
 tags:
   - Tinkering
-  - IoT
   - English
 series:
   - Tinkering

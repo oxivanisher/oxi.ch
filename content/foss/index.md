@@ -12,7 +12,6 @@ categories:
   - IT
 tags:
   - Linux
-  - Opensource
   - English
 series:
   - IT

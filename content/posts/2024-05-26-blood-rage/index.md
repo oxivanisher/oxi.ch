@@ -1,6 +1,6 @@
 ---
 title: Blood Rage
-subtitle: "Wiking Tabletop Game"
+subtitle: "Wikingger Tabletop Game"
 header_img: "img/minipainting-header.jpg"
 comment: false
 toc: false
@@ -13,8 +13,8 @@ categories:
   - Miniatures
 tags:
   - Deutsch
-  - Blood Rage
   - Mini Painting
+  - Tabletop-Game
 series: []
 aliases:
   - /s/blood-rage

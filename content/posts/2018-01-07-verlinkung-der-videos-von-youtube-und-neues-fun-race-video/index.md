@@ -14,7 +14,6 @@ categories:
 tags:
   - Deutsch
   - FPV
-  - GEPRC Sparrow
   - Quadcopter
   - Racing
   - Youtube

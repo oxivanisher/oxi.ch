@@ -14,7 +14,6 @@ categories:
 tags:
   - Deutsch
   - FPV
-  - GEP130X
   - Quadcopter
   - Racing
   - Youtube

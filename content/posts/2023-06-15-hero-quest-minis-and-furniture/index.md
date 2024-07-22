@@ -13,8 +13,8 @@ categories:
   - Miniatures
 tags:
   - Deutsch
-  - Hero Quest
   - Mini Painting
+  - Tabletop-Game
 series: []
 aliases:
   - /s/heroquest

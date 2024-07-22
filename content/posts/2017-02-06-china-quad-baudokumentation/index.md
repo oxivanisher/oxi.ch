@@ -15,7 +15,6 @@ tags:
   - Deutsch
   - Freestyle
   - FPV
-  - China Quad
   - Quadcopter
   - Tips
   - Youtube

@@ -13,7 +13,6 @@ categories:
   - Miniatures
 tags:
   - Deutsch
-  - ASOIF
   - Mini Painting
 series: []
 aliases:

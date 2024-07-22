@@ -14,7 +14,6 @@ categories:
 tags:
   - Deutsch
   - 3D Printing
-  - Nano Talon
   - FPV
   - Wing
   - Freestyle

@@ -18,7 +18,7 @@ tags:
   - SkyShadow S800
   - TBS Caipirinha II
   - Tips
-  - Wings
+  - Wing
   - Youtube
 series: []
 ---

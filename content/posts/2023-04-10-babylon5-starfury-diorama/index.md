@@ -18,7 +18,6 @@ tags:
   - Prusa
   - Diorama
   - Tinkering
-  - CNC
   - Mini Painting
 series: []
 images:

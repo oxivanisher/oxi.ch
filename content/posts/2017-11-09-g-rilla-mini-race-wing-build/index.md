@@ -12,7 +12,7 @@ date: "2017-11-09"
 categories:
   - RC
 tags:
-  - Deutsch$
+  - Deutsch
   - 3D Printing
   - 3D Design
   - FPV

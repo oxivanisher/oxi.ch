@@ -13,7 +13,6 @@ categories:
   - RC
 tags:
   - Deutsch
-  - BAZL
   - SMV
   - Youtube
 series: []
