@@ -41,7 +41,7 @@ Die Krieg(er) haben viel Zubehör welches nach belieben angebracht werden kann.
 {{< image-gallery gallery_dir="02_customization" >}}
 
 #### Grundierung und Drybrush
-Danach wurden die Minis in schwarz grundiert, mit grau Zenithal gehighlightet und anschliessend mit weiss drybrushed. Anschliessend habe ich alle minis mit glanz versiegelt, damit die Speed Paints gut fliessen können.
+Danach wurden die Minis in schwarz grundiert, mit grau Zenithal gehighlightet und anschliessend mit weiss drybrushed. Anschliessend habe ich alle minis mit Glanz versiegelt, damit die Speed Paints gut fliessen können.
 {{< image-gallery gallery_dir="03_prime_zenithal_drybrush" >}}
 
 #### Speedpaints

@@ -43,7 +43,7 @@ Auch bei diesem Kill Team habe ich meinen standardisierten Prozess angewandt und
 {{< image-gallery gallery_dir="04_metals_details_gloss" >}}
 
 #### Bases
-Obwohl die Kroot von einem Jungel-Planeten stammen, ist dieses Kill Team gerade auf einem Wüsten-Planeten im Einsatz.
+Obwohl die Kroot von einem Dschungel-Planeten stammen, ist dieses Kill Team gerade auf einem Wüsten-Planeten im Einsatz.
 {{< image-gallery gallery_dir="05_basing_and_glow" >}}
 
 #### Resultat

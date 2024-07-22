@@ -26,7 +26,7 @@ images:
   - thumbnail3.jpg
   - thumbnail4.jpg
 ---
-Games Workshop, erfinder von Warhammer 40K, hat ein Tabletop-Spiel herausgebracht mit dem Namen Darktide. Auch hat Games Workshop ein PC-Egoshooter-Spil herausgrbracht welches Darktide heisst ... Falls du nach dem Tabletop-Spiel suchen willst, musst du "Tabletop" anhängen, sonst erhälst du nur Resultate zum PC-Spiel.
+Games Workshop, Erfinder von Warhammer 40K, hat ein Tabletop-Spiel herausgebracht mit dem Namen Darktide. Auch hat Games Workshop ein PC-First-Person-Shooter herausgebracht welches Darktide heisst ... Falls du nach dem Tabletop-Spiel suchen willst, musst du "Tabletop" anhängen, sonst erhältst du nur Resultate zum PC-Spiel.
 
 Das Tabletop-Spiel hat eine einfachere Version der Kill Team Regeln und kann von einem bis vier Spielern gespielt werden. Zudem sind alle Spieler in selben Team und es ist somit ein Kooperatives Spiel.
 
@@ -48,11 +48,11 @@ Auch bei diesen Minis habe ich meinen standardisierten Prozess angewandt und wer
 {{< image-gallery gallery_dir="05_hero_skin" >}}
 
 #### Basing der Helden
-Der Boden der Bösewichte besteht aus den selben Farben wie der der Helden. Jedoch ist er bei den Helden noch in Takt und nicht so zersetzt. Um das zu bauen, habe ich aus einem Werbeprospekt bodenplatten geschnitten und diese anschliessend mit Modge Podge und Weissleim befestigt. Nachdem dies mit den richtigen Farben bearbeitet wurden, sieht es wirklich aus wie Metallplatten-Boden.
+Der Boden der Bösewichte besteht aus den selben Farben wie der der Helden. Jedoch ist er bei den Helden noch in Takt und nicht so zersetzt. Um das zu bauen, habe ich aus einem Werbeprospekt bodenplatten geschnitten und diese anschliessend mit Mod Podge und Weissleim befestigt. Nachdem dies mit den richtigen Farben bearbeitet wurden, sieht es wirklich aus wie Metallplatten-Boden.
 {{< image-gallery gallery_dir="06_hero_basing" >}}
 
 #### Bemalen der Zealot-Heldin
-Ich bin besonders stolz auf das von Hand bemalene OSL, welches den Schein der Flammen simuliert.
+Ich bin besonders stolz auf das von Hand gemalte OSL, welches den Schein der Flammen simuliert.
 {{< image-gallery gallery_dir="07_hero_zealot" >}}
 
 #### Bemalen des Ogrin-Helden

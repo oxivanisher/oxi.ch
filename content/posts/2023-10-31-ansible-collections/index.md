@@ -18,7 +18,7 @@ tags:
 series: []
 ---
 # Background
-In my day job as a Linux System Engineer I write a lot of linux automation stuff (often [ansible](https://www.ansible.com) things). But sadly very little of this is made public due to sensitive information, cost or just no interest of the customer or employer. My personal home lab is not nearly as complex as my jobs environments, but I rather write one role than do stuff manually multiple times. I try to adopt the infrastructure as code idea as much as possible also in my home lab.
+In my day job as a Linux System Engineer I write a lot of Linux automation stuff (often [ansible](https://www.ansible.com) things). But sadly very little of this is made public due to sensitive information, cost or just no interest of the customer or employer. My personal home lab is not nearly as complex as my jobs environments, but I rather write one role than do stuff manually multiple times. I try to adopt the infrastructure as code idea as much as possible also in my home lab.
 
 I dreaded this step for a long time, since it was VERY time consuming, but I migrated all my roles which are still in use and not "internal only" from my own GitLab instance to [GitHub](https://github.com/oxivanisher/). All roles are called `role-NAME` and the collections containing the roles are called `collection-NAME`.
 
@@ -34,7 +34,7 @@ I split up the 68 roles into five collections withing my [Ansible Galaxy Namespa
 First, I decided which roles to migrate and bundle them up into the collection. Once I had that, I used the following script to migrate the roles to GitHub. I did this in batches just to ensure everything is working as expected, but theoretically you could use this to migrate all roles at once. This script does the following tasks for each role:
 1) Clones it to a temporary directory
 1) Renames the branch `master` to `main` if it exists
-1) Replaces the linter pipeline I used on gitlab with a corresponding GitHub action
+1) Replaces the linter pipeline I used on GitLab with a corresponding GitHub action
 1) Updates the `$ANSIBLE_DIR/requirements.yml` file
 1) Archives the role on GitLab
 

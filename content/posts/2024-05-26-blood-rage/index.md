@@ -25,7 +25,7 @@ images:
   - thumbnail3.jpg
   - thumbnail4.jpg
 ---
-Im Brettspiel "Blood Rage" geht es darum, seinen Clan während Ragnrarök so ruhmreich wie möglich zu führen und ihm damit einen Platz in Walhalla zu sichern. Das Spiel macht echt spass und hat glücklicherweise Minis, die bemalt werden können. Was für ein glücklicher Zufall. 😉
+Im Brettspiel "Blood Rage" geht es darum, seinen Clan während Ragnarök so ruhmreich wie möglich zu führen und ihm damit einen Platz in Walhalla zu sichern. Das Spiel macht echt Spass und hat glücklicherweise Minis, die bemalt werden können. Was für ein glücklicher Zufall. 😉
 
 Die beiden Erweiterungen für das Spiel "5. Spieler" und "Die Götter von Asgard" sind ebenfalls Teil dieses Projektes.
 
